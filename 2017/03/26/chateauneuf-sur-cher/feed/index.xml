@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Châteauneuf sur Cher	</title>
-	<atom:link href="/2017/03/26/chateauneuf-sur-cher/feed/" rel="self" type="application/rss+xml" />
-	<link>/2017/03/26/chateauneuf-sur-cher/</link>
+	<atom:link href=".//2017/03/26/chateauneuf-sur-cher/feed/" rel="self" type="application/rss+xml" />
+	<link>.//2017/03/26/chateauneuf-sur-cher/</link>
 	<description>18190</description>
 	<lastBuildDate>Sun, 26 Mar 2017 18:52:43 +0000</lastBuildDate>
 	<sy:updatePeriod>

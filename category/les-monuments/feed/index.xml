@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Les monuments Archives - Vallenay.net</title>
-	<atom:link href="/category/les-monuments/feed/" rel="self" type="application/rss+xml" />
-	<link>/category/les-monuments/</link>
+	<atom:link href=".//category/les-monuments/feed/" rel="self" type="application/rss+xml" />
+	<link>.//category/les-monuments/</link>
 	<description>18190</description>
 	<lastBuildDate>Thu, 20 Apr 2017 19:38:40 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,57 +21,57 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>Le monument aux morts de Vallenay</title>
-		<link>/2017/03/14/le-monument-aux-morts-de-vallenay/</link>
-					<comments>/2017/03/14/le-monument-aux-morts-de-vallenay/#respond</comments>
+		<link>.//2017/03/14/le-monument-aux-morts-de-vallenay/</link>
+					<comments>.//2017/03/14/le-monument-aux-morts-de-vallenay/#respond</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Tue, 14 Mar 2017 19:48:28 +0000</pubDate>
 				<category><![CDATA[Les monuments]]></category>
-		<guid isPermaLink="false">/?p=821</guid>
+		<guid isPermaLink="false">.//?p=821</guid>
 
 					<description><![CDATA[<p>Les photos ci-dessous ont été réalisées par Monsieur Michel KLEIN , de PLAIMPIED, que je remercie Se reporter au texte concernant les 2 monuments aux morts de la commune , en fin de rubrique « revenons au coeur de notre village »</p>
-<p>L’article <a rel="nofollow" href="/2017/03/14/le-monument-aux-morts-de-vallenay/">Le monument aux morts de Vallenay</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+<p>L’article <a rel="nofollow" href=".//2017/03/14/le-monument-aux-morts-de-vallenay/">Le monument aux morts de Vallenay</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/14/le-monument-aux-morts-de-vallenay/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/14/le-monument-aux-morts-de-vallenay/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Le monument aux morts de Bigny</title>
-		<link>/2017/03/14/le-monument-aux-morts-de-bigny/</link>
-					<comments>/2017/03/14/le-monument-aux-morts-de-bigny/#respond</comments>
+		<link>.//2017/03/14/le-monument-aux-morts-de-bigny/</link>
+					<comments>.//2017/03/14/le-monument-aux-morts-de-bigny/#respond</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Tue, 14 Mar 2017 19:45:50 +0000</pubDate>
 				<category><![CDATA[Les monuments]]></category>
-		<guid isPermaLink="false">/?p=818</guid>
+		<guid isPermaLink="false">.//?p=818</guid>
 
 					<description><![CDATA[<p>u</p>
-<p>L’article <a rel="nofollow" href="/2017/03/14/le-monument-aux-morts-de-bigny/">Le monument aux morts de Bigny</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+<p>L’article <a rel="nofollow" href=".//2017/03/14/le-monument-aux-morts-de-bigny/">Le monument aux morts de Bigny</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/14/le-monument-aux-morts-de-bigny/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/14/le-monument-aux-morts-de-bigny/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>La croix sur la place de Vallenay</title>
-		<link>/2017/03/14/la-croix-sur-la-place-de-vallenay/</link>
-					<comments>/2017/03/14/la-croix-sur-la-place-de-vallenay/#comments</comments>
+		<link>.//2017/03/14/la-croix-sur-la-place-de-vallenay/</link>
+					<comments>.//2017/03/14/la-croix-sur-la-place-de-vallenay/#comments</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Tue, 14 Mar 2017 00:46:07 +0000</pubDate>
 				<category><![CDATA[Les monuments]]></category>
-		<guid isPermaLink="false">/?p=812</guid>
+		<guid isPermaLink="false">.//?p=812</guid>
 
 					<description><![CDATA[<p>Photo Eliane Grosbois Août 2006 &#160;</p>
-<p>L’article <a rel="nofollow" href="/2017/03/14/la-croix-sur-la-place-de-vallenay/">La croix sur la place de Vallenay</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+<p>L’article <a rel="nofollow" href=".//2017/03/14/la-croix-sur-la-place-de-vallenay/">La croix sur la place de Vallenay</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/14/la-croix-sur-la-place-de-vallenay/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/14/la-croix-sur-la-place-de-vallenay/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

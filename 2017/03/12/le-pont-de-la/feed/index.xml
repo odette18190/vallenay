@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Le pont de la Brûlée	</title>
-	<atom:link href="/2017/03/12/le-pont-de-la/feed/" rel="self" type="application/rss+xml" />
-	<link>/2017/03/12/le-pont-de-la/</link>
+	<atom:link href=".//2017/03/12/le-pont-de-la/feed/" rel="self" type="application/rss+xml" />
+	<link>.//2017/03/12/le-pont-de-la/</link>
 	<description>18190</description>
 	<lastBuildDate>Sun, 27 Aug 2017 14:51:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Par : Nicole Fontaine		</title>
-		<link>/2017/03/12/le-pont-de-la/#comment-10</link>
+		<link>.//2017/03/12/le-pont-de-la/#comment-10</link>
 
 		<dc:creator><![CDATA[Nicole Fontaine]]></dc:creator>
 		<pubDate>Sun, 27 Aug 2017 14:51:13 +0000</pubDate>
-		<guid isPermaLink="false">/?p=703#comment-10</guid>
+		<guid isPermaLink="false">.//?p=703#comment-10</guid>
 
 					<description><![CDATA[Pas de photo]]></description>
 			<content:encoded><![CDATA[<p>Pas de photo</p>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Lièvre	</title>
-	<atom:link href="/2017/03/07/lievre/feed/" rel="self" type="application/rss+xml" />
-	<link>/2017/03/07/lievre/</link>
+	<atom:link href=".//2017/03/07/lievre/feed/" rel="self" type="application/rss+xml" />
+	<link>.//2017/03/07/lievre/</link>
 	<description>18190</description>
 	<lastBuildDate>Tue, 07 Mar 2017 19:36:34 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Incendie aux Bassots	</title>
-	<atom:link href="/2017/03/01/incendie-aux-bassots/feed/" rel="self" type="application/rss+xml" />
-	<link>/2017/03/01/incendie-aux-bassots/</link>
+	<atom:link href=".//2017/03/01/incendie-aux-bassots/feed/" rel="self" type="application/rss+xml" />
+	<link>.//2017/03/01/incendie-aux-bassots/</link>
 	<description>18190</description>
 	<lastBuildDate>Sat, 04 Mar 2017 18:56:30 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Cartes postales et photos anciennes	</title>
-	<atom:link href="/2017/03/27/cartes-postales-et-photos-anciennes/feed/" rel="self" type="application/rss+xml" />
-	<link>/2017/03/27/cartes-postales-et-photos-anciennes/</link>
+	<atom:link href=".//2017/03/27/cartes-postales-et-photos-anciennes/feed/" rel="self" type="application/rss+xml" />
+	<link>.//2017/03/27/cartes-postales-et-photos-anciennes/</link>
 	<description>18190</description>
 	<lastBuildDate>Mon, 17 Apr 2017 14:01:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

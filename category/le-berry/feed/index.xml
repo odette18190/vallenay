@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Le Berry Archives - Vallenay.net</title>
-	<atom:link href="/category/le-berry/feed/" rel="self" type="application/rss+xml" />
-	<link>/category/le-berry/</link>
+	<atom:link href=".//category/le-berry/feed/" rel="self" type="application/rss+xml" />
+	<link>.//category/le-berry/</link>
 	<description>18190</description>
 	<lastBuildDate>Sun, 04 Aug 2019 15:16:32 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,57 +21,57 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>Les blasons</title>
-		<link>/2017/03/08/les-blasons/</link>
-					<comments>/2017/03/08/les-blasons/#respond</comments>
+		<link>.//2017/03/08/les-blasons/</link>
+					<comments>.//2017/03/08/les-blasons/#respond</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Wed, 08 Mar 2017 16:00:24 +0000</pubDate>
 				<category><![CDATA[Le Berry]]></category>
-		<guid isPermaLink="false">/?p=654</guid>
+		<guid isPermaLink="false">.//?p=654</guid>
 
 					<description><![CDATA[<p>     avant 1381    après 1381</p>
-<p>L’article <a rel="nofollow" href="/2017/03/08/les-blasons/">Les blasons</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+<p>L’article <a rel="nofollow" href=".//2017/03/08/les-blasons/">Les blasons</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/08/les-blasons/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/08/les-blasons/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Le patois berrichon</title>
-		<link>/2017/03/08/le-patois-berrichon/</link>
-					<comments>/2017/03/08/le-patois-berrichon/#comments</comments>
+		<link>.//2017/03/08/le-patois-berrichon/</link>
+					<comments>.//2017/03/08/le-patois-berrichon/#comments</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Wed, 08 Mar 2017 15:57:17 +0000</pubDate>
 				<category><![CDATA[Le Berry]]></category>
-		<guid isPermaLink="false">/?p=651</guid>
+		<guid isPermaLink="false">.//?p=651</guid>
 
 					<description><![CDATA[<p>Vallenay se situe en Berry , dans le Boischaut. Nous faisions partie de la moitié de notre pays qui parlait la langue d&#8217;oïl, mais chaque région avait son patois (sa parlure ou son parler pour le Berry). On peut trouver ci-après un mini lexique du parler en Berry (la liste n&#8217;est bien sûr pas exhaustive). &#8230; </p>
-<p class="link-more"><a href="/2017/03/08/le-patois-berrichon/" class="more-link">Continuer la lecture<span class="screen-reader-text"> de &#171;&#160;Le patois berrichon&#160;&#187;</span></a></p>
-<p>L’article <a rel="nofollow" href="/2017/03/08/le-patois-berrichon/">Le patois berrichon</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+<p class="link-more"><a href=".//2017/03/08/le-patois-berrichon/" class="more-link">Continuer la lecture<span class="screen-reader-text"> de &#171;&#160;Le patois berrichon&#160;&#187;</span></a></p>
+<p>L’article <a rel="nofollow" href=".//2017/03/08/le-patois-berrichon/">Le patois berrichon</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/08/le-patois-berrichon/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/08/le-patois-berrichon/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Le costume berrichon</title>
-		<link>/2017/03/08/le-costume-berrichon/</link>
-					<comments>/2017/03/08/le-costume-berrichon/#comments</comments>
+		<link>.//2017/03/08/le-costume-berrichon/</link>
+					<comments>.//2017/03/08/le-costume-berrichon/#comments</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Wed, 08 Mar 2017 15:51:37 +0000</pubDate>
 				<category><![CDATA[Le Berry]]></category>
-		<guid isPermaLink="false">/?p=645</guid>
+		<guid isPermaLink="false">.//?p=645</guid>
 
-					<description><![CDATA[<p>L’article <a rel="nofollow" href="/2017/03/08/le-costume-berrichon/">Le costume berrichon</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+					<description><![CDATA[<p>L’article <a rel="nofollow" href=".//2017/03/08/le-costume-berrichon/">Le costume berrichon</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/08/le-costume-berrichon/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/08/le-costume-berrichon/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

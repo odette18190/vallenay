@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Football (sans date)	</title>
-	<atom:link href="/2017/05/17/fottball-sans-date/feed/" rel="self" type="application/rss+xml" />
-	<link>/2017/05/17/fottball-sans-date/</link>
+	<atom:link href=".//2017/05/17/fottball-sans-date/feed/" rel="self" type="application/rss+xml" />
+	<link>.//2017/05/17/fottball-sans-date/</link>
 	<description>18190</description>
 	<lastBuildDate>Wed, 21 Feb 2018 17:37:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Par : Nicole Fontaine		</title>
-		<link>/2017/05/17/fottball-sans-date/#comment-15</link>
+		<link>.//2017/05/17/fottball-sans-date/#comment-15</link>
 
 		<dc:creator><![CDATA[Nicole Fontaine]]></dc:creator>
 		<pubDate>Wed, 21 Feb 2018 17:37:52 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1348#comment-15</guid>
+		<guid isPermaLink="false">.//?p=1348#comment-15</guid>
 
 					<description><![CDATA[Une petite erreur Odette ce n&#039;est pas Raymond Guillemet mais FERNAND...]]></description>
 			<content:encoded><![CDATA[<p>Une petite erreur Odette ce n&rsquo;est pas Raymond Guillemet mais FERNAND&#8230;</p>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Création du site Archives - Vallenay.net</title>
-	<atom:link href="/category/creation-du-site/feed/" rel="self" type="application/rss+xml" />
-	<link>/category/creation-du-site/</link>
+	<atom:link href=".//category/creation-du-site/feed/" rel="self" type="application/rss+xml" />
+	<link>.//category/creation-du-site/</link>
 	<description>18190</description>
 	<lastBuildDate>Tue, 07 Mar 2017 12:47:16 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>Le but</title>
-		<link>/2017/03/07/le-but/</link>
-					<comments>/2017/03/07/le-but/#respond</comments>
+		<link>.//2017/03/07/le-but/</link>
+					<comments>.//2017/03/07/le-but/#respond</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Tue, 07 Mar 2017 12:47:16 +0000</pubDate>
 				<category><![CDATA[Création du site]]></category>
-		<guid isPermaLink="false">/?p=572</guid>
+		<guid isPermaLink="false">.//?p=572</guid>
 
 					<description><![CDATA[<p>Ce site est créé par Odette Deligny &#8211; Brunet , native de Vallenay et habitant toujours ce village. Il a pour but de faire connaître notre village et aussi de faire se manifester des personnes qui sont nées , qui ont vécu et qui ont fréquenté les écoles de Bigny-Vallenay, ceci depuis les années 1930 jusqu&#8217;aux années 1950/1970 .  &#8230; </p>
-<p class="link-more"><a href="/2017/03/07/le-but/" class="more-link">Continuer la lecture<span class="screen-reader-text"> de &#171;&#160;Le but&#160;&#187;</span></a></p>
-<p>L’article <a rel="nofollow" href="/2017/03/07/le-but/">Le but</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+<p class="link-more"><a href=".//2017/03/07/le-but/" class="more-link">Continuer la lecture<span class="screen-reader-text"> de &#171;&#160;Le but&#160;&#187;</span></a></p>
+<p>L’article <a rel="nofollow" href=".//2017/03/07/le-but/">Le but</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/07/le-but/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/07/le-but/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

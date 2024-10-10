@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : vallenayvue	</title>
-	<atom:link href="/accueil/vallenayvue/feed/" rel="self" type="application/rss+xml" />
-	<link>/accueil/vallenayvue/feed/</link>
+	<atom:link href=".//accueil/vallenayvue/feed/" rel="self" type="application/rss+xml" />
+	<link>.//accueil/vallenayvue/feed/</link>
 	<description>18190</description>
 	<lastBuildDate>Sun, 16 Apr 2017 13:44:11 +0000</lastBuildDate>
 	<sy:updatePeriod>

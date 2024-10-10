@@ -9,8 +9,8 @@
 
 <channel>
 	<title>vallenay dans la presse Archives - Vallenay.net</title>
-	<atom:link href="/category/vallenay-dans-la-presse/feed/" rel="self" type="application/rss+xml" />
-	<link>/category/vallenay-dans-la-presse/</link>
+	<atom:link href=".//category/vallenay-dans-la-presse/feed/" rel="self" type="application/rss+xml" />
+	<link>.//category/vallenay-dans-la-presse/</link>
 	<description>18190</description>
 	<lastBuildDate>Thu, 18 May 2017 16:04:05 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,145 +21,145 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>Cérémonie de remise du coq sur le clocher</title>
-		<link>/2017/03/29/ceremonie-de-remise-du-coq-sur-le-clocher/</link>
-					<comments>/2017/03/29/ceremonie-de-remise-du-coq-sur-le-clocher/#respond</comments>
+		<link>.//2017/03/29/ceremonie-de-remise-du-coq-sur-le-clocher/</link>
+					<comments>.//2017/03/29/ceremonie-de-remise-du-coq-sur-le-clocher/#respond</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Wed, 29 Mar 2017 06:40:42 +0000</pubDate>
 				<category><![CDATA[vallenay dans la presse]]></category>
-		<guid isPermaLink="false">/?p=1151</guid>
+		<guid isPermaLink="false">.//?p=1151</guid>
 
-					<description><![CDATA[<p>L’article <a rel="nofollow" href="/2017/03/29/ceremonie-de-remise-du-coq-sur-le-clocher/">Cérémonie de remise du coq sur le clocher</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+					<description><![CDATA[<p>L’article <a rel="nofollow" href=".//2017/03/29/ceremonie-de-remise-du-coq-sur-le-clocher/">Cérémonie de remise du coq sur le clocher</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/29/ceremonie-de-remise-du-coq-sur-le-clocher/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/29/ceremonie-de-remise-du-coq-sur-le-clocher/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Maurice Larguinat</title>
-		<link>/2017/03/28/maurice-larguinat/</link>
-					<comments>/2017/03/28/maurice-larguinat/#respond</comments>
+		<link>.//2017/03/28/maurice-larguinat/</link>
+					<comments>.//2017/03/28/maurice-larguinat/#respond</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Tue, 28 Mar 2017 18:40:29 +0000</pubDate>
 				<category><![CDATA[vallenay dans la presse]]></category>
-		<guid isPermaLink="false">/?p=1147</guid>
+		<guid isPermaLink="false">.//?p=1147</guid>
 
-					<description><![CDATA[<p>L’article <a rel="nofollow" href="/2017/03/28/maurice-larguinat/">Maurice Larguinat</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+					<description><![CDATA[<p>L’article <a rel="nofollow" href=".//2017/03/28/maurice-larguinat/">Maurice Larguinat</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/28/maurice-larguinat/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/28/maurice-larguinat/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>La papeterie Smurfit n&#8217;est plus</title>
-		<link>/2017/03/28/la-papeterie-smurfit-nest-plus/</link>
-					<comments>/2017/03/28/la-papeterie-smurfit-nest-plus/#respond</comments>
+		<link>.//2017/03/28/la-papeterie-smurfit-nest-plus/</link>
+					<comments>.//2017/03/28/la-papeterie-smurfit-nest-plus/#respond</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Tue, 28 Mar 2017 18:37:42 +0000</pubDate>
 				<category><![CDATA[vallenay dans la presse]]></category>
-		<guid isPermaLink="false">/?p=1145</guid>
+		<guid isPermaLink="false">.//?p=1145</guid>
 
-					<description><![CDATA[<p>L’article <a rel="nofollow" href="/2017/03/28/la-papeterie-smurfit-nest-plus/">La papeterie Smurfit n&rsquo;est plus</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+					<description><![CDATA[<p>L’article <a rel="nofollow" href=".//2017/03/28/la-papeterie-smurfit-nest-plus/">La papeterie Smurfit n&rsquo;est plus</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/28/la-papeterie-smurfit-nest-plus/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/28/la-papeterie-smurfit-nest-plus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Un moulin dans le lit du cher</title>
-		<link>/2017/03/28/1143/</link>
-					<comments>/2017/03/28/1143/#respond</comments>
+		<link>.//2017/03/28/1143/</link>
+					<comments>.//2017/03/28/1143/#respond</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Tue, 28 Mar 2017 18:35:08 +0000</pubDate>
 				<category><![CDATA[vallenay dans la presse]]></category>
-		<guid isPermaLink="false">/?p=1143</guid>
+		<guid isPermaLink="false">.//?p=1143</guid>
 
-					<description><![CDATA[<p>L’article <a rel="nofollow" href="/2017/03/28/1143/">Un moulin dans le lit du cher</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+					<description><![CDATA[<p>L’article <a rel="nofollow" href=".//2017/03/28/1143/">Un moulin dans le lit du cher</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/28/1143/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/28/1143/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Des fragments de sarcophages dans le Cher à Bigny-Vallenay</title>
-		<link>/2017/03/28/des-fragments-de-sarcophages-dans-le-cher-a-bigny-vallenay/</link>
-					<comments>/2017/03/28/des-fragments-de-sarcophages-dans-le-cher-a-bigny-vallenay/#respond</comments>
+		<link>.//2017/03/28/des-fragments-de-sarcophages-dans-le-cher-a-bigny-vallenay/</link>
+					<comments>.//2017/03/28/des-fragments-de-sarcophages-dans-le-cher-a-bigny-vallenay/#respond</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Tue, 28 Mar 2017 18:32:44 +0000</pubDate>
 				<category><![CDATA[vallenay dans la presse]]></category>
-		<guid isPermaLink="false">/?p=1141</guid>
+		<guid isPermaLink="false">.//?p=1141</guid>
 
-					<description><![CDATA[<p>L’article <a rel="nofollow" href="/2017/03/28/des-fragments-de-sarcophages-dans-le-cher-a-bigny-vallenay/">Des fragments de sarcophages dans le Cher à Bigny-Vallenay</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+					<description><![CDATA[<p>L’article <a rel="nofollow" href=".//2017/03/28/des-fragments-de-sarcophages-dans-le-cher-a-bigny-vallenay/">Des fragments de sarcophages dans le Cher à Bigny-Vallenay</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/28/des-fragments-de-sarcophages-dans-le-cher-a-bigny-vallenay/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/28/des-fragments-de-sarcophages-dans-le-cher-a-bigny-vallenay/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>L&#8217;église St Martin devient Maison du patrimoine</title>
-		<link>/2017/03/28/leglise-st-martin-devient-maison-du-patrimoine/</link>
-					<comments>/2017/03/28/leglise-st-martin-devient-maison-du-patrimoine/#respond</comments>
+		<link>.//2017/03/28/leglise-st-martin-devient-maison-du-patrimoine/</link>
+					<comments>.//2017/03/28/leglise-st-martin-devient-maison-du-patrimoine/#respond</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Tue, 28 Mar 2017 18:29:35 +0000</pubDate>
 				<category><![CDATA[vallenay dans la presse]]></category>
-		<guid isPermaLink="false">/?p=1138</guid>
+		<guid isPermaLink="false">.//?p=1138</guid>
 
-					<description><![CDATA[<p>L’article <a rel="nofollow" href="/2017/03/28/leglise-st-martin-devient-maison-du-patrimoine/">L&rsquo;église St Martin devient Maison du patrimoine</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+					<description><![CDATA[<p>L’article <a rel="nofollow" href=".//2017/03/28/leglise-st-martin-devient-maison-du-patrimoine/">L&rsquo;église St Martin devient Maison du patrimoine</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/28/leglise-st-martin-devient-maison-du-patrimoine/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/28/leglise-st-martin-devient-maison-du-patrimoine/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Inauguration du Clos St Martin</title>
-		<link>/2017/03/28/inauguration-du-clos-st-martin-2/</link>
-					<comments>/2017/03/28/inauguration-du-clos-st-martin-2/#respond</comments>
+		<link>.//2017/03/28/inauguration-du-clos-st-martin-2/</link>
+					<comments>.//2017/03/28/inauguration-du-clos-st-martin-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Tue, 28 Mar 2017 18:27:04 +0000</pubDate>
 				<category><![CDATA[vallenay dans la presse]]></category>
-		<guid isPermaLink="false">/?p=1135</guid>
+		<guid isPermaLink="false">.//?p=1135</guid>
 
-					<description><![CDATA[<p>L’article <a rel="nofollow" href="/2017/03/28/inauguration-du-clos-st-martin-2/">Inauguration du Clos St Martin</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+					<description><![CDATA[<p>L’article <a rel="nofollow" href=".//2017/03/28/inauguration-du-clos-st-martin-2/">Inauguration du Clos St Martin</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/28/inauguration-du-clos-st-martin-2/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/28/inauguration-du-clos-st-martin-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Vallenay dans la presse</title>
-		<link>/2017/03/07/vallenay-dans-la-presse/</link>
-					<comments>/2017/03/07/vallenay-dans-la-presse/#respond</comments>
+		<link>.//2017/03/07/vallenay-dans-la-presse/</link>
+					<comments>.//2017/03/07/vallenay-dans-la-presse/#respond</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Tue, 07 Mar 2017 13:05:26 +0000</pubDate>
 				<category><![CDATA[vallenay dans la presse]]></category>
-		<guid isPermaLink="false">/?p=577</guid>
+		<guid isPermaLink="false">.//?p=577</guid>
 
 					<description><![CDATA[<p>&#160;</p>
-<p>L’article <a rel="nofollow" href="/2017/03/07/vallenay-dans-la-presse/">Vallenay dans la presse</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+<p>L’article <a rel="nofollow" href=".//2017/03/07/vallenay-dans-la-presse/">Vallenay dans la presse</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/2017/03/07/vallenay-dans-la-presse/feed/</wfw:commentRss>
+					<wfw:commentRss>.//2017/03/07/vallenay-dans-la-presse/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Le Cher, notre rivière	</title>
-	<atom:link href="/2017/03/12/le-cher-notre-riviere/feed/" rel="self" type="application/rss+xml" />
-	<link>/2017/03/12/le-cher-notre-riviere/</link>
+	<atom:link href=".//2017/03/12/le-cher-notre-riviere/feed/" rel="self" type="application/rss+xml" />
+	<link>.//2017/03/12/le-cher-notre-riviere/</link>
 	<description>18190</description>
 	<lastBuildDate>Thu, 18 May 2017 16:10:03 +0000</lastBuildDate>
 	<sy:updatePeriod>

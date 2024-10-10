@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : L&#8217;église St Martin	</title>
-	<atom:link href="/2017/03/12/leglise-st-martin/feed/" rel="self" type="application/rss+xml" />
-	<link>/2017/03/12/leglise-st-martin/</link>
+	<atom:link href=".//2017/03/12/leglise-st-martin/feed/" rel="self" type="application/rss+xml" />
+	<link>.//2017/03/12/leglise-st-martin/</link>
 	<description>18190</description>
 	<lastBuildDate>Sun, 27 Aug 2017 14:52:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Par : Nicole Fontaine		</title>
-		<link>/2017/03/12/leglise-st-martin/#comment-11</link>
+		<link>.//2017/03/12/leglise-st-martin/#comment-11</link>
 
 		<dc:creator><![CDATA[Nicole Fontaine]]></dc:creator>
 		<pubDate>Sun, 27 Aug 2017 14:52:27 +0000</pubDate>
-		<guid isPermaLink="false">/?p=700#comment-11</guid>
+		<guid isPermaLink="false">.//?p=700#comment-11</guid>
 
 					<description><![CDATA[Rien]]></description>
 			<content:encoded><![CDATA[<p>Rien</p>

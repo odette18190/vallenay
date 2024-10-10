@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href=".//main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap.xml</loc>
+		<loc>.//post-sitemap.xml</loc>
 		<lastmod>2023-05-20T13:33:57+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>.//page-sitemap.xml</loc>
 		<lastmod>2023-03-11T14:25:59+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/attachment-sitemap.xml</loc>
+		<loc>.//attachment-sitemap.xml</loc>
 		<lastmod>2023-03-08T23:40:33+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/category-sitemap.xml</loc>
+		<loc>.//category-sitemap.xml</loc>
 		<lastmod>2023-05-20T13:33:57+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/author-sitemap.xml</loc>
+		<loc>.//author-sitemap.xml</loc>
 		<lastmod>2023-05-20T13:45:33+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
