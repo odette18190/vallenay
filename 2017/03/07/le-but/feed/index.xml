@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Le but	</title>
-	<atom:link href=".//2017/03/07/le-but/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/03/07/le-but/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Tue, 07 Mar 2017 12:47:16 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Football (sans date)	</title>
-	<atom:link href=".//2017/03/13/football-sans-date/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/03/13/football-sans-date/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Sun, 27 Aug 2017 14:45:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Par : Nicole Fontaine		</title>
-		<link>.//2017/03/13/football-sans-date/#comment-6</link>
+		<link>./../index.html#comment-6</link>
 
 		<dc:creator><![CDATA[Nicole Fontaine]]></dc:creator>
 		<pubDate>Sun, 27 Aug 2017 14:45:49 +0000</pubDate>
-		<guid isPermaLink="false">.//?p=791#comment-6</guid>
+		<guid isPermaLink="false">./../../../../../index.html?p=791#comment-6</guid>
 
 					<description><![CDATA[Que les noms !]]></description>
 			<content:encoded><![CDATA[<p>Que les noms !</p>

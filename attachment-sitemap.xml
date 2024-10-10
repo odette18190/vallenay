@@ -1,595 +1,595 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href=".//main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>.//2017/02/25/auberge-begassat/vieille_eglise/</loc>
+		<loc>./2017/02/25/auberge-begassat/vieille_eglise/index.html</loc>
 		<lastmod>2017-02-25T14:42:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/02/25/les-provinces/france_anciennes_provinces_1789/</loc>
+		<loc>./2017/02/25/les-provinces/france_anciennes_provinces_1789/index.html</loc>
 		<lastmod>2017-02-25T14:59:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/1726-parchemin-acte-notarie/gaulier77/</loc>
+		<loc>./2017/03/01/1726-parchemin-acte-notarie/gaulier77/index.html</loc>
 		<lastmod>2017-03-03T14:44:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/1726-parchemin-acte-notarie/gaulier33/</loc>
+		<loc>./2017/03/01/1726-parchemin-acte-notarie/gaulier33/index.html</loc>
 		<lastmod>2017-03-03T14:45:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/1726-parchemin-acte-notarie/gaulier66/</loc>
+		<loc>./2017/03/01/1726-parchemin-acte-notarie/gaulier66/index.html</loc>
 		<lastmod>2017-03-03T14:46:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/1726-parchemin-acte-notarie/gaulier55/</loc>
+		<loc>./2017/03/01/1726-parchemin-acte-notarie/gaulier55/index.html</loc>
 		<lastmod>2017-03-03T14:47:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/1726-parchemin-acte-notarie/gaulier44/</loc>
+		<loc>./2017/03/01/1726-parchemin-acte-notarie/gaulier44/index.html</loc>
 		<lastmod>2017-03-03T14:48:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/1726-parchemin-acte-notarie/gaulier_2/</loc>
+		<loc>./2017/03/01/1726-parchemin-acte-notarie/gaulier_2/index.html</loc>
 		<lastmod>2017-03-03T14:52:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/1726-parchemin-acte-notarie/gaulier88/</loc>
+		<loc>./2017/03/01/1726-parchemin-acte-notarie/gaulier88/index.html</loc>
 		<lastmod>2017-03-03T19:28:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/1726-parchemin-acte-notarie/gaulier11/</loc>
+		<loc>./2017/03/01/1726-parchemin-acte-notarie/gaulier11/index.html</loc>
 		<lastmod>2017-03-03T19:39:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/03/1729-certificat-de-bapteme/pv_prestation_serment/</loc>
+		<loc>./2017/03/03/1729-certificat-de-bapteme/pv_prestation_serment/index.html</loc>
 		<lastmod>2017-03-03T20:00:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/03/403/crtifbapt/</loc>
+		<loc>./2017/03/03/403/crtifbapt/index.html</loc>
 		<lastmod>2017-03-03T20:12:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/04/1749-emancipation-acte-de-1749/gaulier_2-2/</loc>
+		<loc>./2017/03/04/1749-emancipation-acte-de-1749/gaulier_2-2/index.html</loc>
 		<lastmod>2017-03-04T14:30:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/04/instructions-pour-la-fabrication-du-pain/fabrpain/</loc>
+		<loc>./2017/03/04/instructions-pour-la-fabrication-du-pain/fabrpain/index.html</loc>
 		<lastmod>2017-03-04T17:37:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/05/1878-liste-des-ouvriers-designes-pour-aller-visiter-lexposition-universelle/ouvrexpo1878/</loc>
+		<loc>./2017/03/05/1878-liste-des-ouvriers-designes-pour-aller-visiter-lexposition-universelle/ouvrexpo1878/index.html</loc>
 		<lastmod>2017-03-05T13:57:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1900-lettre-aux-habitants-de-vallenay/habitantvallenay1/</loc>
+		<loc>./2017/03/06/1900-lettre-aux-habitants-de-vallenay/habitantvallenay1/index.html</loc>
 		<lastmod>2017-03-06T09:26:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1900-lettre-aux-habitants-de-vallenay/habitantvallenay2/</loc>
+		<loc>./2017/03/06/1900-lettre-aux-habitants-de-vallenay/habitantvallenay2/index.html</loc>
 		<lastmod>2017-03-06T09:27:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1900-lettre-aux-habitants-de-vallenay/habitantvallenay4/</loc>
+		<loc>./2017/03/06/1900-lettre-aux-habitants-de-vallenay/habitantvallenay4/index.html</loc>
 		<lastmod>2017-03-06T09:30:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1921-conseil-municipal-du-1741921/cm_17_4_21_p1/</loc>
+		<loc>./2017/03/06/1921-conseil-municipal-du-1741921/cm_17_4_21_p1/index.html</loc>
 		<lastmod>2017-03-06T09:44:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1921-conseil-municipal-du-1741921/cm_17_4_21p2/</loc>
+		<loc>./2017/03/06/1921-conseil-municipal-du-1741921/cm_17_4_21p2/index.html</loc>
 		<lastmod>2017-03-06T09:45:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1929-conseil-municpal-du-961929/cm_juin_29/</loc>
+		<loc>./2017/03/06/1929-conseil-municpal-du-961929/cm_juin_29/index.html</loc>
 		<lastmod>2017-03-06T09:48:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1936-conseil-municipal-du-2451936/cm_24_5_36/</loc>
+		<loc>./2017/03/06/1936-conseil-municipal-du-2451936/cm_24_5_36/index.html</loc>
 		<lastmod>2017-03-06T15:31:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1937-conseil-municipal-du-24111937/cm_14_11_37p2/</loc>
+		<loc>./2017/03/06/1937-conseil-municipal-du-24111937/cm_14_11_37p2/index.html</loc>
 		<lastmod>2017-03-06T15:36:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/530/cm-12-5-1945-p-1/</loc>
+		<loc>./2017/03/06/530/cm-12-5-1945-p-1/index.html</loc>
 		<lastmod>2017-03-06T15:44:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/530/cm-12-5-1945-p2/</loc>
+		<loc>./2017/03/06/530/cm-12-5-1945-p2/index.html</loc>
 		<lastmod>2017-03-06T15:47:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1937-amities-de-voisinage/photo_bistro_1937/</loc>
+		<loc>./2017/03/06/1937-amities-de-voisinage/photo_bistro_1937/index.html</loc>
 		<lastmod>2017-03-06T15:56:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/commercants-et-artisan/auberge-begassat-2/</loc>
+		<loc>./2017/03/07/commercants-et-artisan/auberge-begassat-2/index.html</loc>
 		<lastmod>2017-03-07T08:28:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/vallenay-dans-la-presse/sarcophages/</loc>
+		<loc>./2017/03/07/vallenay-dans-la-presse/sarcophages/index.html</loc>
 		<lastmod>2017-03-07T13:01:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/vallenay-dans-la-presse/retouch/</loc>
+		<loc>./2017/03/07/vallenay-dans-la-presse/retouch/index.html</loc>
 		<lastmod>2017-03-07T13:01:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/vallenay-dans-la-presse/le_moulin_dans_le_lit_du_cher/</loc>
+		<loc>./2017/03/07/vallenay-dans-la-presse/le_moulin_dans_le_lit_du_cher/index.html</loc>
 		<lastmod>2017-03-07T13:02:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/vallenay-dans-la-presse/clocher_1/</loc>
+		<loc>./2017/03/07/vallenay-dans-la-presse/clocher_1/index.html</loc>
 		<lastmod>2017-03-07T13:03:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/vallenay-dans-la-presse/scan10001/</loc>
+		<loc>./2017/03/07/vallenay-dans-la-presse/scan10001/index.html</loc>
 		<lastmod>2017-03-07T13:04:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/sangliers/sangliers-3-bis/</loc>
+		<loc>./2017/03/07/sangliers/sangliers-3-bis/index.html</loc>
 		<lastmod>2017-03-07T19:32:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/vols-de-vanneaux/vanneaux/</loc>
+		<loc>./2017/03/07/vols-de-vanneaux/vanneaux/index.html</loc>
 		<lastmod>2017-03-07T19:33:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/lievre/lievre-1/</loc>
+		<loc>./2017/03/07/lievre/lievre-1/index.html</loc>
 		<lastmod>2017-03-07T19:35:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/lievre/lievre-2/</loc>
+		<loc>./2017/03/07/lievre/lievre-2/index.html</loc>
 		<lastmod>2017-03-07T19:36:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/la-vesse-de-loup/vesse-de-loup/</loc>
+		<loc>./2017/03/07/la-vesse-de-loup/vesse-de-loup/index.html</loc>
 		<lastmod>2017-03-07T19:37:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/la-vesse-de-loup/vesse-de-loup-2/</loc>
+		<loc>./2017/03/07/la-vesse-de-loup/vesse-de-loup-2/index.html</loc>
 		<lastmod>2017-03-07T19:38:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/08/une-rainette/rainette/</loc>
+		<loc>./2017/03/08/une-rainette/rainette/index.html</loc>
 		<lastmod>2017-03-08T10:03:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/22/mais-revenons-au-coeur-de-notre-village/nef/</loc>
+		<loc>./2017/03/22/mais-revenons-au-coeur-de-notre-village/nef/index.html</loc>
 		<lastmod>2017-03-24T07:34:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/22/mais-revenons-au-coeur-de-notre-village/vieilleeglisenuit/</loc>
+		<loc>./2017/03/22/mais-revenons-au-coeur-de-notre-village/vieilleeglisenuit/index.html</loc>
 		<lastmod>2017-03-24T08:09:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/22/mais-revenons-au-coeur-de-notre-village/monument3/</loc>
+		<loc>./2017/03/22/mais-revenons-au-coeur-de-notre-village/monument3/index.html</loc>
 		<lastmod>2017-03-24T13:55:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/plans-de-la-petite-forges/plan_petite_forge1/</loc>
+		<loc>./2017/03/27/plans-de-la-petite-forges/plan_petite_forge1/index.html</loc>
 		<lastmod>2017-03-27T07:40:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/plans-de-la-petite-forges/planpetite_forge2/</loc>
+		<loc>./2017/03/27/plans-de-la-petite-forges/planpetite_forge2/index.html</loc>
 		<lastmod>2017-03-27T07:40:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/cartes-postales-et-photos-anciennes/pontsuspendu/</loc>
+		<loc>./2017/03/27/cartes-postales-et-photos-anciennes/pontsuspendu/index.html</loc>
 		<lastmod>2017-03-27T17:17:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/cartes-postales-et-photos-anciennes/lemarche/</loc>
+		<loc>./2017/03/27/cartes-postales-et-photos-anciennes/lemarche/index.html</loc>
 		<lastmod>2017-03-27T17:18:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/cartes-postales-et-photos-anciennes/le-pont-des-anciennes-forges-2/</loc>
+		<loc>./2017/03/27/cartes-postales-et-photos-anciennes/le-pont-des-anciennes-forges-2/index.html</loc>
 		<lastmod>2017-03-27T17:18:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/cartes-postales-et-photos-anciennes/ladigue/</loc>
+		<loc>./2017/03/27/cartes-postales-et-photos-anciennes/ladigue/index.html</loc>
 		<lastmod>2017-03-27T17:19:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/cartes-postales-et-photos-anciennes/vueaerienne/</loc>
+		<loc>./2017/03/27/cartes-postales-et-photos-anciennes/vueaerienne/index.html</loc>
 		<lastmod>2017-03-27T17:20:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/cartes-postales-et-photos-anciennes/vallenay_bigny2/</loc>
+		<loc>./2017/03/27/cartes-postales-et-photos-anciennes/vallenay_bigny2/index.html</loc>
 		<lastmod>2017-03-27T17:21:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/cartes-postales-et-photos-anciennes/maison-de-bois-1909/</loc>
+		<loc>./2017/03/27/cartes-postales-et-photos-anciennes/maison-de-bois-1909/index.html</loc>
 		<lastmod>2017-03-27T17:21:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/cartes-postales-et-photos-anciennes/vallenay_bourbiers/</loc>
+		<loc>./2017/03/27/cartes-postales-et-photos-anciennes/vallenay_bourbiers/index.html</loc>
 		<lastmod>2017-03-27T17:22:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/cartes-postales-et-photos-anciennes/le-pont-des-anciennes-forges/</loc>
+		<loc>./2017/03/27/cartes-postales-et-photos-anciennes/le-pont-des-anciennes-forges/index.html</loc>
 		<lastmod>2017-03-27T17:23:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/28/la-papeterie-smurfit-nest-plus/fin-de-smurfit/</loc>
+		<loc>./2017/03/28/la-papeterie-smurfit-nest-plus/fin-de-smurfit/index.html</loc>
 		<lastmod>2017-03-28T18:36:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/29/scenes-de-la-vie-au-xx-eme-siecle/guy_imbault_et_ses_nes/</loc>
+		<loc>./2017/03/29/scenes-de-la-vie-au-xx-eme-siecle/guy_imbault_et_ses_nes/index.html</loc>
 		<lastmod>2017-03-29T06:31:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/29/scenes-de-la-vie-au-xx-eme-siecle/guy-imbault-et-ses-ones-2/</loc>
+		<loc>./2017/03/29/scenes-de-la-vie-au-xx-eme-siecle/guy-imbault-et-ses-ones-2/index.html</loc>
 		<lastmod>2017-03-29T06:33:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/29/scenes-de-la-vie-au-xx-eme-siecle/batteuse/</loc>
+		<loc>./2017/03/29/scenes-de-la-vie-au-xx-eme-siecle/batteuse/index.html</loc>
 		<lastmod>2017-04-14T14:00:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/04/16/scene-de-battage-du-grains-debut-du-xxeme-siecle/batteuse-jpeg/</loc>
+		<loc>./2017/04/16/scene-de-battage-du-grains-debut-du-xxeme-siecle/batteuse-jpeg/index.html</loc>
 		<lastmod>2017-04-16T08:03:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/04/16/1000x2500/scene-de-vie-a-vallenay-en-1900-931x1280/</loc>
+		<loc>./2017/04/16/1000x2500/scene-de-vie-a-vallenay-en-1900-931x1280/index.html</loc>
 		<lastmod>2017-04-16T10:26:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/04/16/1000x2500/scenes-de-vie-a-vallenay-dans-les-anneees-1900-doc/</loc>
+		<loc>./2017/04/16/1000x2500/scenes-de-vie-a-vallenay-dans-les-anneees-1900-doc/index.html</loc>
 		<lastmod>2017-04-16T12:48:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/vallenayeglise/</loc>
+		<loc>./accueil/vallenayeglise/index.html</loc>
 		<lastmod>2017-04-16T13:41:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/digital-camera-8/</loc>
+		<loc>./accueil/digital-camera-8/index.html</loc>
 		<lastmod>2017-04-16T13:43:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/vallenayvue/</loc>
+		<loc>./accueil/vallenayvue/index.html</loc>
 		<lastmod>2017-04-16T13:44:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/val1/</loc>
+		<loc>./accueil/val1/index.html</loc>
 		<lastmod>2017-04-16T13:48:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/vallenay_les_2_tours_bis/</loc>
+		<loc>./accueil/vallenay_les_2_tours_bis/index.html</loc>
 		<lastmod>2017-04-16T13:48:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/monument1/</loc>
+		<loc>./accueil/monument1/index.html</loc>
 		<lastmod>2017-04-16T13:49:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/digital-camera-6/</loc>
+		<loc>./accueil/digital-camera-6/index.html</loc>
 		<lastmod>2017-04-16T13:50:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/digital-camera-7/</loc>
+		<loc>./accueil/digital-camera-7/index.html</loc>
 		<lastmod>2017-04-16T13:52:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/28/marcel-bascoulard/bascoulard2/</loc>
+		<loc>./2017/03/28/marcel-bascoulard/bascoulard2/index.html</loc>
 		<lastmod>2017-04-20T19:40:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/28/marcel-bascoulard/bascoulard3/</loc>
+		<loc>./2017/03/28/marcel-bascoulard/bascoulard3/index.html</loc>
 		<lastmod>2017-04-20T19:41:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/09/personnages/popol/</loc>
+		<loc>./2017/03/09/personnages/popol/index.html</loc>
 		<lastmod>2017-04-20T19:49:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1956-g-1/photo-1956-g-3/</loc>
+		<loc>./2017/03/18/photo-1956-g-1/photo-1956-g-3/index.html</loc>
 		<lastmod>2017-04-21T05:49:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/19/photo-1980-f-et-g/photo-1956-g-bis/</loc>
+		<loc>./2017/03/19/photo-1980-f-et-g/photo-1956-g-bis/index.html</loc>
 		<lastmod>2017-04-21T11:25:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/19/photo-1980-f-et-g/photo-1979/</loc>
+		<loc>./2017/03/19/photo-1980-f-et-g/photo-1979/index.html</loc>
 		<lastmod>2017-04-21T11:26:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/19/photo-1978-f-et-g/photo-1978-nouvelle-2/</loc>
+		<loc>./2017/03/19/photo-1978-f-et-g/photo-1978-nouvelle-2/index.html</loc>
 		<lastmod>2017-04-21T14:53:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/19/photo-1970-f-et-g/photo_ecole_1976/</loc>
+		<loc>./2017/03/19/photo-1970-f-et-g/photo_ecole_1976/index.html</loc>
 		<lastmod>2017-04-21T15:26:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1957-g-bis/photo-1957-g-ter/</loc>
+		<loc>./2017/03/18/photo-1957-g-bis/photo-1957-g-ter/index.html</loc>
 		<lastmod>2017-04-21T15:34:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1957-g/photo-1957-f-3/</loc>
+		<loc>./2017/03/18/photo-1957-g/photo-1957-f-3/index.html</loc>
 		<lastmod>2017-04-24T02:17:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1955-g-1/photo_1955_g_bis/</loc>
+		<loc>./2017/03/18/photo-1955-g-1/photo_1955_g_bis/index.html</loc>
 		<lastmod>2017-04-24T02:33:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1955-g-1/photo_ecole_1955/</loc>
+		<loc>./2017/03/18/photo-1955-g-1/photo_ecole_1955/index.html</loc>
 		<lastmod>2017-04-24T02:34:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1955-f-2/photo-7/</loc>
+		<loc>./2017/03/18/photo-1955-f-2/photo-7/index.html</loc>
 		<lastmod>2017-04-24T02:41:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1954-f/photo-1955-g-2/</loc>
+		<loc>./2017/03/18/photo-1954-f/photo-1955-g-2/index.html</loc>
 		<lastmod>2017-04-24T02:46:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1955-f/photo-7-2/</loc>
+		<loc>./2017/03/18/photo-1955-f/photo-7-2/index.html</loc>
 		<lastmod>2017-04-24T02:58:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1954-f/photo-6-2/</loc>
+		<loc>./2017/03/18/photo-1954-f/photo-6-2/index.html</loc>
 		<lastmod>2017-04-24T03:01:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/en-construction/</loc>
+		<loc>./accueil/en-construction/index.html</loc>
 		<lastmod>2017-04-24T12:52:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1957-f/photo_1952_fg/</loc>
+		<loc>./2017/03/18/photo-1957-f/photo_1952_fg/index.html</loc>
 		<lastmod>2017-04-26T10:30:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1957-f/e1/</loc>
+		<loc>./2017/03/18/photo-1957-f/e1/index.html</loc>
 		<lastmod>2017-04-26T10:34:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1957-g/photo-1957-g-2/</loc>
+		<loc>./2017/03/18/photo-1957-g/photo-1957-g-2/index.html</loc>
 		<lastmod>2017-04-26T15:03:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1953-f/photo-6-4/</loc>
+		<loc>./2017/03/18/photo-1953-f/photo-6-4/index.html</loc>
 		<lastmod>2017-04-29T12:03:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1956-g/photo-1956-g-bis-2/</loc>
+		<loc>./2017/03/18/photo-1956-g/photo-1956-g-bis-2/index.html</loc>
 		<lastmod>2017-04-29T12:27:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1956-g/photo2bis/</loc>
+		<loc>./2017/03/18/photo-1956-g/photo2bis/index.html</loc>
 		<lastmod>2017-04-29T12:35:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1954-f/photo-7-3/</loc>
+		<loc>./2017/03/18/photo-1954-f/photo-7-3/index.html</loc>
 		<lastmod>2017-04-29T14:49:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1952-f-et-g/photo-1952/</loc>
+		<loc>./2017/03/18/photo-1952-f-et-g/photo-1952/index.html</loc>
 		<lastmod>2017-04-29T15:27:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1952-g/photo-1953-g/</loc>
+		<loc>./2017/03/18/photo-1952-g/photo-1953-g/index.html</loc>
 		<lastmod>2017-04-29T15:36:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1950-g/kokot2/</loc>
+		<loc>./2017/03/18/photo-1950-g/kokot2/index.html</loc>
 		<lastmod>2017-05-02T13:39:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1949-g/photo-1949-g-2/</loc>
+		<loc>./2017/03/18/photo-1949-g/photo-1949-g-2/index.html</loc>
 		<lastmod>2017-05-02T13:43:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1947-f-et-g-2/ecole3/</loc>
+		<loc>./2017/03/18/photo-1947-f-et-g-2/ecole3/index.html</loc>
 		<lastmod>2017-05-02T13:55:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1947-f-et-g-2/photo-1949-f-et-g/</loc>
+		<loc>./2017/03/18/photo-1947-f-et-g-2/photo-1949-f-et-g/index.html</loc>
 		<lastmod>2017-05-02T13:59:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1943-f/photo1943/</loc>
+		<loc>./2017/03/17/photo-1943-f/photo1943/index.html</loc>
 		<lastmod>2017-05-02T14:03:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1943-f/photo-1943-f-2/</loc>
+		<loc>./2017/03/17/photo-1943-f/photo-1943-f-2/index.html</loc>
 		<lastmod>2017-05-02T14:04:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1947-f/photo1947/</loc>
+		<loc>./2017/03/18/photo-1947-f/photo1947/index.html</loc>
 		<lastmod>2017-05-05T12:24:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1945-f/photo_1945_f/</loc>
+		<loc>./2017/03/18/photo-1945-f/photo_1945_f/index.html</loc>
 		<lastmod>2017-05-05T12:27:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1944-f/photo_1944_f/</loc>
+		<loc>./2017/03/17/photo-1944-f/photo_1944_f/index.html</loc>
 		<lastmod>2017-05-05T12:31:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1943-f-et-g/photo-5/</loc>
+		<loc>./2017/03/17/photo-1943-f-et-g/photo-5/index.html</loc>
 		<lastmod>2017-05-05T12:34:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/piscine/</loc>
+		<loc>./accueil/piscine/index.html</loc>
 		<lastmod>2017-05-05T13:13:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1941-f/ecole-filles-vers-1940/</loc>
+		<loc>./2017/03/17/photo-1941-f/ecole-filles-vers-1940/index.html</loc>
 		<lastmod>2017-05-15T13:11:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1938-f-et-g/photo-1938-f-et-g-2/</loc>
+		<loc>./2017/03/17/photo-1938-f-et-g/photo-1938-f-et-g-2/index.html</loc>
 		<lastmod>2017-05-15T13:17:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1937-g/e1-2/</loc>
+		<loc>./2017/03/17/photo-1937-g/e1-2/index.html</loc>
 		<lastmod>2017-05-16T02:08:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1938-f-et-g/photo-1938-f-et-g-3/</loc>
+		<loc>./2017/03/17/photo-1938-f-et-g/photo-1938-f-et-g-3/index.html</loc>
 		<lastmod>2017-05-16T02:18:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1938-f-et-g/photo-1938-f-et-g-4/</loc>
+		<loc>./2017/03/17/photo-1938-f-et-g/photo-1938-f-et-g-4/index.html</loc>
 		<lastmod>2017-05-16T02:27:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1937-g/photo-1937-g-2/</loc>
+		<loc>./2017/03/17/photo-1937-g/photo-1937-g-2/index.html</loc>
 		<lastmod>2017-05-16T02:34:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/16/photo-1933-f/photo_1933f/</loc>
+		<loc>./2017/03/16/photo-1933-f/photo_1933f/index.html</loc>
 		<lastmod>2017-05-16T02:37:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/16/photo-1931-f/photo_1931f/</loc>
+		<loc>./2017/03/16/photo-1931-f/photo_1931f/index.html</loc>
 		<lastmod>2017-05-16T02:40:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/16/841/photo1920bis/</loc>
+		<loc>./2017/03/16/841/photo1920bis/index.html</loc>
 		<lastmod>2017-05-16T02:42:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/pont-susp2-2/</loc>
+		<loc>./accueil/pont-susp2-2/index.html</loc>
 		<lastmod>2017-05-16T03:05:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/le-pont-de-bigny-2/</loc>
+		<loc>./accueil/le-pont-de-bigny-2/index.html</loc>
 		<lastmod>2017-05-16T03:06:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/la-halle/</loc>
+		<loc>./accueil/la-halle/index.html</loc>
 		<lastmod>2017-05-16T03:16:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/13/baskett-feminin-1946/basket-filles/</loc>
+		<loc>./2017/03/13/baskett-feminin-1946/basket-filles/index.html</loc>
 		<lastmod>2017-05-16T16:06:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/13/hand-ball-1956/photo-handball-1956/</loc>
+		<loc>./2017/03/13/hand-ball-1956/photo-handball-1956/index.html</loc>
 		<lastmod>2017-05-16T16:09:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/football-1947/foot_1947/</loc>
+		<loc>./2017/03/12/football-1947/foot_1947/index.html</loc>
 		<lastmod>2017-05-16T16:20:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/football-1948/foot-1954/</loc>
+		<loc>./2017/03/12/football-1948/foot-1954/index.html</loc>
 		<lastmod>2017-05-16T16:23:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/football-1948/foot-1/</loc>
+		<loc>./2017/03/12/football-1948/foot-1/index.html</loc>
 		<lastmod>2017-05-16T16:24:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/football-1948/foot-1948/</loc>
+		<loc>./2017/03/12/football-1948/foot-1948/index.html</loc>
 		<lastmod>2017-05-16T16:26:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/749/foot-1952/</loc>
+		<loc>./2017/03/12/749/foot-1952/index.html</loc>
 		<lastmod>2017-05-16T16:29:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/13/football-1960/foot-2/</loc>
+		<loc>./2017/03/13/football-1960/foot-2/index.html</loc>
 		<lastmod>2017-05-16T17:43:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/13/football-1965/foot-1-2/</loc>
+		<loc>./2017/03/13/football-1965/foot-1-2/index.html</loc>
 		<lastmod>2017-05-17T13:38:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/05/17/football-1970-2/foot-1970/</loc>
+		<loc>./2017/05/17/football-1970-2/foot-1970/index.html</loc>
 		<lastmod>2017-05-17T14:10:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/05/17/1356/foot-3/</loc>
+		<loc>./2017/05/17/1356/foot-3/index.html</loc>
 		<lastmod>2017-05-17T14:21:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/13/football-1960/foot_1960/</loc>
+		<loc>./2017/03/13/football-1960/foot_1960/index.html</loc>
 		<lastmod>2017-05-17T16:19:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/28/divers/pontbrul/</loc>
+		<loc>./2017/03/28/divers/pontbrul/index.html</loc>
 		<lastmod>2017-05-17T18:52:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/la-vieille-eglise-st-martin/vieille-eglise-2/</loc>
+		<loc>./2017/03/27/la-vieille-eglise-st-martin/vieille-eglise-2/index.html</loc>
 		<lastmod>2017-05-17T18:56:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/plans-de-la-petite-forges/petiteforge5/</loc>
+		<loc>./2017/03/27/plans-de-la-petite-forges/petiteforge5/index.html</loc>
 		<lastmod>2017-05-18T15:59:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/plans-de-la-petite-forges/petiteforge3/</loc>
+		<loc>./2017/03/27/plans-de-la-petite-forges/petiteforge3/index.html</loc>
 		<lastmod>2017-05-18T16:00:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/plans-de-la-petite-forges/petite_forge9/</loc>
+		<loc>./2017/03/27/plans-de-la-petite-forges/petite_forge9/index.html</loc>
 		<lastmod>2017-05-18T16:00:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/plans-de-la-petite-forges/petite_forge8/</loc>
+		<loc>./2017/03/27/plans-de-la-petite-forges/petite_forge8/index.html</loc>
 		<lastmod>2017-05-18T16:00:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/plans-de-la-petite-forges/petite_forge7/</loc>
+		<loc>./2017/03/27/plans-de-la-petite-forges/petite_forge7/index.html</loc>
 		<lastmod>2017-05-18T16:01:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/le-cher-notre-riviere/source-du-cher-2/</loc>
+		<loc>./2017/03/12/le-cher-notre-riviere/source-du-cher-2/index.html</loc>
 		<lastmod>2017-05-18T16:09:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/digital-camera-5/</loc>
+		<loc>./accueil/digital-camera-5/index.html</loc>
 		<lastmod>2017-05-19T18:51:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/05/22/deces-de-robert-couturier-ancien-maire-de-vallenay/deces/</loc>
+		<loc>./2017/05/22/deces-de-robert-couturier-ancien-maire-de-vallenay/deces/index.html</loc>
 		<lastmod>2017-05-22T05:42:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/05/22/deces-de-robert-couturier-ancien-maire-de-vallenay/deces-robert-couturier/</loc>
+		<loc>./2017/05/22/deces-de-robert-couturier-ancien-maire-de-vallenay/deces-robert-couturier/index.html</loc>
 		<lastmod>2017-05-22T05:47:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/carte-de-cassini/carte_cassini_5-2/</loc>
+		<loc>./2017/03/12/carte-de-cassini/carte_cassini_5-2/index.html</loc>
 		<lastmod>2018-10-06T11:53:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/05/17/football-date-bis/asbv-min-80-811/</loc>
+		<loc>./2017/05/17/football-date-bis/asbv-min-80-811/index.html</loc>
 		<lastmod>2019-08-04T13:58:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/05/17/football-date-bis/footanniv1/</loc>
+		<loc>./2017/05/17/football-date-bis/footanniv1/index.html</loc>
 		<lastmod>2019-08-04T13:59:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/27/le-nay/le_nay_04_2010/</loc>
+		<loc>./2017/03/27/le-nay/le_nay_04_2010/index.html</loc>
 		<lastmod>2019-08-04T14:13:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//accueil/la-croix-et-le-monument/</loc>
+		<loc>./accueil/la-croix-et-le-monument/index.html</loc>
 		<lastmod>2019-08-04T14:14:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/08/le-costume-berrichon/costume-femme/</loc>
+		<loc>./2017/03/08/le-costume-berrichon/costume-femme/index.html</loc>
 		<lastmod>2019-08-04T15:15:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/08/le-costume-berrichon/costume-homme/</loc>
+		<loc>./2017/03/08/le-costume-berrichon/costume-homme/index.html</loc>
 		<lastmod>2019-08-04T15:16:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/05/17/1356/foot-1958-59-jpg-3/</loc>
+		<loc>./2017/05/17/1356/foot-1958-59-jpg-3/index.html</loc>
 		<lastmod>2019-08-13T16:28:29+00:00</lastmod>
 	</url>
 </urlset>

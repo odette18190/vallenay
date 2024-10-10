@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : photo 5	</title>
-	<atom:link href=".//2017/03/17/photo-1943-f-et-g/photo-5/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/03/17/photo-1943-f-et-g/photo-5/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Fri, 05 May 2017 12:34:30 +0000</lastBuildDate>
 	<sy:updatePeriod>

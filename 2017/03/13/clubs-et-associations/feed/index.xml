@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Clubs et associations	</title>
-	<atom:link href=".//2017/03/13/clubs-et-associations/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/03/13/clubs-et-associations/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Mon, 13 Mar 2017 15:23:46 +0000</lastBuildDate>
 	<sy:updatePeriod>

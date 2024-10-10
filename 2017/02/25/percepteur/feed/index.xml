@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Percepteur	</title>
-	<atom:link href=".//2017/02/25/percepteur/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/02/25/percepteur/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Tue, 28 Mar 2017 14:59:19 +0000</lastBuildDate>
 	<sy:updatePeriod>

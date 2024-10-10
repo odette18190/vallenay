@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Les GALLICHER	</title>
-	<atom:link href=".//2017/03/06/les-gallicher/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/03/06/les-gallicher/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Tue, 07 Mar 2017 08:48:30 +0000</lastBuildDate>
 	<sy:updatePeriod>

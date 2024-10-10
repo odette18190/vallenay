@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : pont susp2	</title>
-	<atom:link href=".//accueil/pont-susp2-2/feed/" rel="self" type="application/rss+xml" />
-	<link>.//accueil/pont-susp2-2/feed/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Tue, 16 May 2017 03:05:10 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Photo 1951 f et g	</title>
-	<atom:link href=".//2017/03/18/photo-1951-f-et-g-2/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/03/18/photo-1951-f-et-g-2/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Sun, 27 Aug 2017 14:42:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Par : Nicole Fontaine		</title>
-		<link>.//2017/03/18/photo-1951-f-et-g-2/#comment-5</link>
+		<link>./../index.html#comment-5</link>
 
 		<dc:creator><![CDATA[Nicole Fontaine]]></dc:creator>
 		<pubDate>Sun, 27 Aug 2017 14:42:39 +0000</pubDate>
-		<guid isPermaLink="false">.//?p=918#comment-5</guid>
+		<guid isPermaLink="false">./../../../../../index.html?p=918#comment-5</guid>
 
 					<description><![CDATA[Pas de photos ....que les noms .]]></description>
 			<content:encoded><![CDATA[<p>Pas de photos &#8230;.que les noms .</p>

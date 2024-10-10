@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : La forêt de Vallenay	</title>
-	<atom:link href=".//2017/03/22/la-foret-de-vallenay/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/03/22/la-foret-de-vallenay/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Wed, 22 Mar 2017 14:11:34 +0000</lastBuildDate>
 	<sy:updatePeriod>

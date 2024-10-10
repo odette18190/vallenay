@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Clubs et associations Archives - Vallenay.net</title>
-	<atom:link href=".//category/clubs-et-associations/feed/" rel="self" type="application/rss+xml" />
-	<link>.//category/clubs-et-associations/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Sun, 04 Jun 2017 18:49:50 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,39 +21,39 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>LISTE DES ASSOCIATIONS DE BIGNY-VALLENAY</title>
-		<link>.//2017/06/04/liste-associations-de-bigny-vallenay/</link>
-					<comments>.//2017/06/04/liste-associations-de-bigny-vallenay/#respond</comments>
+		<link>./../../../2017/06/04/liste-associations-de-bigny-vallenay/index.html</link>
+					<comments>./../../../2017/06/04/liste-associations-de-bigny-vallenay/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Sun, 04 Jun 2017 14:47:28 +0000</pubDate>
 				<category><![CDATA[Clubs et associations]]></category>
-		<guid isPermaLink="false">.//?p=1443</guid>
+		<guid isPermaLink="false">./../../../index.html?p=1443</guid>
 
 					<description><![CDATA[<p>1- ASSOCIATION SPORTIVE DE BIGNY-VALLENAY( ASBV)                (football)                                                                                   &#8230; </p>
-<p class="link-more"><a href=".//2017/06/04/liste-associations-de-bigny-vallenay/" class="more-link">Continuer la lecture<span class="screen-reader-text"> de &#171;&#160;LISTE DES ASSOCIATIONS DE BIGNY-VALLENAY&#160;&#187;</span></a></p>
-<p>L’article <a rel="nofollow" href=".//2017/06/04/liste-associations-de-bigny-vallenay/">LISTE DES ASSOCIATIONS DE BIGNY-VALLENAY</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
+<p class="link-more"><a href="./../../../2017/06/04/liste-associations-de-bigny-vallenay/index.html" class="more-link">Continuer la lecture<span class="screen-reader-text"> de &#171;&#160;LISTE DES ASSOCIATIONS DE BIGNY-VALLENAY&#160;&#187;</span></a></p>
+<p>L’article <a rel="nofollow" href="./../../../2017/06/04/liste-associations-de-bigny-vallenay/index.html">LISTE DES ASSOCIATIONS DE BIGNY-VALLENAY</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>.//2017/06/04/liste-associations-de-bigny-vallenay/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2017/06/04/liste-associations-de-bigny-vallenay/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Clubs et associations</title>
-		<link>.//2017/03/13/clubs-et-associations/</link>
-					<comments>.//2017/03/13/clubs-et-associations/#respond</comments>
+		<link>./../../../2017/03/13/clubs-et-associations/index.html</link>
+					<comments>./../../../2017/03/13/clubs-et-associations/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
 		<pubDate>Mon, 13 Mar 2017 15:23:46 +0000</pubDate>
 				<category><![CDATA[Clubs et associations]]></category>
-		<guid isPermaLink="false">.//?p=808</guid>
+		<guid isPermaLink="false">./../../../index.html?p=808</guid>
 
 					<description><![CDATA[<p>A.S.B.V Amicale Bouliste de Vallenay Amicale des anciens SOCAR Anciens combattants. P.C.T-CATM-TOE ET VEUVES Association de chasse BIGNY FESTI&#8217;VAL Cercle pongiste de Bigny-Vallenay Club Omnisport de Bigny-Vallenay Club des seniors Club féminin H E R Jardiniers de France La ronde des savoir-faire Les Amis du Vieux Vallenay Les Marmots Sport&#8217;Anims Centre</p>
-<p>L’article <a rel="nofollow" href=".//2017/03/13/clubs-et-associations/">Clubs et associations</a> est apparu en premier sur <a rel="nofollow" href=".//">Vallenay.net</a>.</p>
+<p>L’article <a rel="nofollow" href="./../../../2017/03/13/clubs-et-associations/index.html">Clubs et associations</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Vallenay.net</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>.//2017/03/13/clubs-et-associations/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2017/03/13/clubs-et-associations/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

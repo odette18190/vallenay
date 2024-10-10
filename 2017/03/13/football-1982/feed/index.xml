@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Football 1982	</title>
-	<atom:link href=".//2017/03/13/football-1982/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/03/13/football-1982/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Sun, 04 Aug 2019 16:34:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Par : Nicole Fontaine		</title>
-		<link>.//2017/03/13/football-1982/#comment-7</link>
+		<link>./../index.html#comment-7</link>
 
 		<dc:creator><![CDATA[Nicole Fontaine]]></dc:creator>
 		<pubDate>Sun, 27 Aug 2017 14:46:42 +0000</pubDate>
-		<guid isPermaLink="false">.//?p=789#comment-7</guid>
+		<guid isPermaLink="false">./../../../../../index.html?p=789#comment-7</guid>
 
 					<description><![CDATA[Pas de photo]]></description>
 			<content:encoded><![CDATA[<p>Pas de photo</p>

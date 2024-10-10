@@ -1,1171 +1,1171 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href=".//main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>.//2017/02/11/anciennes-provinces-de-france-extrait-dun-texte-wikipedia/</loc>
+		<loc>./2017/02/11/anciennes-provinces-de-france-extrait-dun-texte-wikipedia/index.html</loc>
 		<lastmod>2017-02-11T13:45:43+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/France_anciennes_provinces_1789.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/France_anciennes_provinces_1789.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/02/25/auberge-begassat/</loc>
+		<loc>./2017/02/25/auberge-begassat/index.html</loc>
 		<lastmod>2017-02-25T14:43:48+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/vieille_eglise.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/vieille_eglise.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/02/25/medecins/</loc>
+		<loc>./2017/02/25/medecins/index.html</loc>
 		<lastmod>2017-02-25T14:50:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/mortalite-sous-le-regne-de-louis-xiv/</loc>
+		<loc>./2017/03/01/mortalite-sous-le-regne-de-louis-xiv/index.html</loc>
 		<lastmod>2017-03-01T15:59:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/1726-parchemin-acte-notarie/</loc>
+		<loc>./2017/03/01/1726-parchemin-acte-notarie/index.html</loc>
 		<lastmod>2017-03-04T14:34:14+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/gaulier88.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/gaulier88.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/gaulier77.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/gaulier77.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/gaulier66.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/gaulier66.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/gaulier55.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/gaulier55.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/gaulier44.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/gaulier44.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/gaulier33.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/gaulier33.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/gaulier11.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/gaulier11.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/gaulier11.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/gaulier11.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/gaulier_2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/gaulier_2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/03/1729-certificat-de-bapteme/</loc>
+		<loc>./2017/03/03/1729-certificat-de-bapteme/index.html</loc>
 		<lastmod>2017-03-04T16:13:21+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/pv_prestation_serment.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/pv_prestation_serment.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/04/vallenay-le-clerge-et-la-revolution/</loc>
+		<loc>./2017/03/04/vallenay-le-clerge-et-la-revolution/index.html</loc>
 		<lastmod>2017-03-04T16:14:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/04/1791-premiere-municipalite-de-vallenay/</loc>
+		<loc>./2017/03/04/1791-premiere-municipalite-de-vallenay/index.html</loc>
 		<lastmod>2017-03-04T16:14:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/04/1749-emancipation-acte-de-1749/</loc>
+		<loc>./2017/03/04/1749-emancipation-acte-de-1749/index.html</loc>
 		<lastmod>2017-03-04T16:15:28+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/03/gaulier_2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/03/gaulier_2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/03/1732-visite-de-mgr-de-la-rochefoucault/</loc>
+		<loc>./2017/03/03/1732-visite-de-mgr-de-la-rochefoucault/index.html</loc>
 		<lastmod>2017-03-04T16:16:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/03/403/</loc>
+		<loc>./2017/03/03/403/index.html</loc>
 		<lastmod>2017-03-04T16:17:56+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/crtifbapt.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/crtifbapt.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/01/obligations-des-forges/</loc>
+		<loc>./2017/03/01/obligations-des-forges/index.html</loc>
 		<lastmod>2017-03-04T16:19:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/obligations-des-forges-2/</loc>
+		<loc>./2017/03/01/obligations-des-forges-2/index.html</loc>
 		<lastmod>2017-03-04T16:21:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/horaires-des-ministeres/</loc>
+		<loc>./2017/03/01/horaires-des-ministeres/index.html</loc>
 		<lastmod>2017-03-04T16:23:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/02/27/avant-propos/</loc>
+		<loc>./2017/02/27/avant-propos/index.html</loc>
 		<lastmod>2017-03-04T16:24:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/02/25/les-provinces/</loc>
+		<loc>./2017/02/25/les-provinces/index.html</loc>
 		<lastmod>2017-03-04T16:25:36+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/France_anciennes_provinces_1789.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/France_anciennes_provinces_1789.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/04/1802-lettre-du-maire-au-prefet-du-cher/</loc>
+		<loc>./2017/03/04/1802-lettre-du-maire-au-prefet-du-cher/index.html</loc>
 		<lastmod>2017-03-04T17:46:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/04/1803-la-population-de-vallenay/</loc>
+		<loc>./2017/03/04/1803-la-population-de-vallenay/index.html</loc>
 		<lastmod>2017-03-04T17:51:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/un-pensionnat-de-jeunes-filles-ouvre-a-chateauneuf/</loc>
+		<loc>./2017/03/01/un-pensionnat-de-jeunes-filles-ouvre-a-chateauneuf/index.html</loc>
 		<lastmod>2017-03-04T18:54:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/le-telephone/</loc>
+		<loc>./2017/03/01/le-telephone/index.html</loc>
 		<lastmod>2017-03-04T18:55:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/chemin-de-fer/</loc>
+		<loc>./2017/03/01/chemin-de-fer/index.html</loc>
 		<lastmod>2017-03-04T18:55:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/01/incendie-aux-bassots/</loc>
+		<loc>./2017/03/01/incendie-aux-bassots/index.html</loc>
 		<lastmod>2017-03-04T18:56:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/04/horaires-des-ministeres-2/</loc>
+		<loc>./2017/03/04/horaires-des-ministeres-2/index.html</loc>
 		<lastmod>2017-03-04T18:57:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/04/instructions-pour-la-fabrication-du-pain/</loc>
+		<loc>./2017/03/04/instructions-pour-la-fabrication-du-pain/index.html</loc>
 		<lastmod>2017-03-04T18:58:33+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/fabrpain.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/fabrpain.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/05/181018111814-vallenay-et-les-guerres-de-lempire/</loc>
+		<loc>./2017/03/05/181018111814-vallenay-et-les-guerres-de-lempire/index.html</loc>
 		<lastmod>2017-03-05T05:52:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/05/1815-inventaire-de-la-maison-du-maitre-de-forges-m-aubertot/</loc>
+		<loc>./2017/03/05/1815-inventaire-de-la-maison-du-maitre-de-forges-m-aubertot/index.html</loc>
 		<lastmod>2017-03-05T05:59:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/05/1821-bapteme-du-duc-de-bordeaux/</loc>
+		<loc>./2017/03/05/1821-bapteme-du-duc-de-bordeaux/index.html</loc>
 		<lastmod>2017-03-05T06:02:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/05/18371861-nos-routes-et-nos-chemins/</loc>
+		<loc>./2017/03/05/18371861-nos-routes-et-nos-chemins/index.html</loc>
 		<lastmod>2017-03-05T06:07:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/05/1848-conseil-municipal-du-1741848/</loc>
+		<loc>./2017/03/05/1848-conseil-municipal-du-1741848/index.html</loc>
 		<lastmod>2017-03-05T06:16:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/05/1852-proces-verbal-prestation-de-serment/</loc>
+		<loc>./2017/03/05/1852-proces-verbal-prestation-de-serment/index.html</loc>
 		<lastmod>2017-03-05T06:23:56+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/pv_prestation_serment.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/pv_prestation_serment.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/05/474/</loc>
+		<loc>./2017/03/05/474/index.html</loc>
 		<lastmod>2017-03-05T13:36:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/05/1862-visite-de-napoleon-iii-a-bourges/</loc>
+		<loc>./2017/03/05/1862-visite-de-napoleon-iii-a-bourges/index.html</loc>
 		<lastmod>2017-03-05T13:40:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/05/1874-commande-de-fer-aux-forges-de-bigny/</loc>
+		<loc>./2017/03/05/1874-commande-de-fer-aux-forges-de-bigny/index.html</loc>
 		<lastmod>2017-03-05T13:56:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/05/1878-liste-des-ouvriers-designes-pour-aller-visiter-lexposition-universelle/</loc>
+		<loc>./2017/03/05/1878-liste-des-ouvriers-designes-pour-aller-visiter-lexposition-universelle/index.html</loc>
 		<lastmod>2017-03-05T13:58:08+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/ouvrexpo1878.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/ouvrexpo1878.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/05/1884-la-pierre-de-vallenay/</loc>
+		<loc>./2017/03/05/1884-la-pierre-de-vallenay/index.html</loc>
 		<lastmod>2017-03-05T14:00:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/05/1897-benediction-de-leglise-de-vallenay/</loc>
+		<loc>./2017/03/05/1897-benediction-de-leglise-de-vallenay/index.html</loc>
 		<lastmod>2017-03-05T14:03:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1906-conseil-municipal-du-581906/</loc>
+		<loc>./2017/03/06/1906-conseil-municipal-du-581906/index.html</loc>
 		<lastmod>2017-03-06T09:35:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1910-decouverte-dun-corps/</loc>
+		<loc>./2017/03/06/1910-decouverte-dun-corps/index.html</loc>
 		<lastmod>2017-03-06T09:39:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1921-conseil-municipal-du-1741921/</loc>
+		<loc>./2017/03/06/1921-conseil-municipal-du-1741921/index.html</loc>
 		<lastmod>2017-03-06T09:46:17+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/cm_17_4_21_p1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/cm_17_4_21_p1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/cm_17_4_21p2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/cm_17_4_21p2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1929-conseil-municpal-du-961929/</loc>
+		<loc>./2017/03/06/1929-conseil-municpal-du-961929/index.html</loc>
 		<lastmod>2017-03-06T09:48:52+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/cm_juin_29.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/cm_juin_29.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1924-elections-des-5-et-12-mai-1929/</loc>
+		<loc>./2017/03/06/1924-elections-des-5-et-12-mai-1929/index.html</loc>
 		<lastmod>2017-03-06T13:04:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1934-conseil-municipal-du-1121934/</loc>
+		<loc>./2017/03/06/1934-conseil-municipal-du-1121934/index.html</loc>
 		<lastmod>2017-03-06T13:07:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1934-conseil-municipal-du-1281934/</loc>
+		<loc>./2017/03/06/1934-conseil-municipal-du-1281934/index.html</loc>
 		<lastmod>2017-03-06T13:08:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1934-conseil-municipal-du-2751934/</loc>
+		<loc>./2017/03/06/1934-conseil-municipal-du-2751934/index.html</loc>
 		<lastmod>2017-03-06T13:12:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1936-conseil-municipal-du-2451936/</loc>
+		<loc>./2017/03/06/1936-conseil-municipal-du-2451936/index.html</loc>
 		<lastmod>2017-03-06T15:32:11+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/cm_24_5_36.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/cm_24_5_36.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1937-conseil-municipal-du-24111937/</loc>
+		<loc>./2017/03/06/1937-conseil-municipal-du-24111937/index.html</loc>
 		<lastmod>2017-03-06T15:36:48+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/cm_14_11_37p2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/cm_14_11_37p2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/06/530/</loc>
+		<loc>./2017/03/06/530/index.html</loc>
 		<lastmod>2017-03-06T15:50:24+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/cm-12.5.1945-p-1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/cm-12.5.1945-p-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/cm-12.5.1945-p2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/cm-12.5.1945-p2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1937-amities-de-voisinage/</loc>
+		<loc>./2017/03/06/1937-amities-de-voisinage/index.html</loc>
 		<lastmod>2017-03-06T16:03:52+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo_bistro_1937.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo_bistro_1937.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/07/medecins-2/</loc>
+		<loc>./2017/03/07/medecins-2/index.html</loc>
 		<lastmod>2017-03-07T08:41:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/commercants-et-artisans/</loc>
+		<loc>./2017/03/07/commercants-et-artisans/index.html</loc>
 		<lastmod>2017-03-07T08:46:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/commercants-et-artisan/</loc>
+		<loc>./2017/03/07/commercants-et-artisan/index.html</loc>
 		<lastmod>2017-03-07T08:47:52+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/auberge-begassat.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/auberge-begassat.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/06/les-gallicher/</loc>
+		<loc>./2017/03/06/les-gallicher/index.html</loc>
 		<lastmod>2017-03-07T08:48:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/1960-conseil-municipal-du-2211960/</loc>
+		<loc>./2017/03/07/1960-conseil-municipal-du-2211960/index.html</loc>
 		<lastmod>2017-03-07T08:49:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/560/</loc>
+		<loc>./2017/03/07/560/index.html</loc>
 		<lastmod>2017-03-07T08:56:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/564/</loc>
+		<loc>./2017/03/07/564/index.html</loc>
 		<lastmod>2017-03-07T08:59:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/en-2010/</loc>
+		<loc>./2017/03/07/en-2010/index.html</loc>
 		<lastmod>2017-03-07T09:01:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/en-2009/</loc>
+		<loc>./2017/03/07/en-2009/index.html</loc>
 		<lastmod>2017-03-07T09:03:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/le-but/</loc>
+		<loc>./2017/03/07/le-but/index.html</loc>
 		<lastmod>2017-03-07T12:47:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/vallenay-dans-la-presse/</loc>
+		<loc>./2017/03/07/vallenay-dans-la-presse/index.html</loc>
 		<lastmod>2017-03-07T13:09:14+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/sarcophages.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/sarcophages.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/retouch.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/retouch.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/Le_moulin_dans_le_lit_du_cher.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/Le_moulin_dans_le_lit_du_cher.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/clocher_1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/clocher_1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/Scan10001.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/Scan10001.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1935-conseil-municipal-du-2951935/</loc>
+		<loc>./2017/03/06/1935-conseil-municipal-du-2951935/index.html</loc>
 		<lastmod>2017-03-07T14:44:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/infos-pratiques/</loc>
+		<loc>./2017/03/07/infos-pratiques/index.html</loc>
 		<lastmod>2017-03-07T17:18:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/la-soupe-aux-chataignes/</loc>
+		<loc>./2017/03/07/la-soupe-aux-chataignes/index.html</loc>
 		<lastmod>2017-03-07T17:30:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/sandre-a-la-fondue-de-poireaux/</loc>
+		<loc>./2017/03/07/sandre-a-la-fondue-de-poireaux/index.html</loc>
 		<lastmod>2017-03-07T17:33:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/tourte-berrichonne/</loc>
+		<loc>./2017/03/07/tourte-berrichonne/index.html</loc>
 		<lastmod>2017-03-07T17:35:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/sangliers/</loc>
+		<loc>./2017/03/07/sangliers/index.html</loc>
 		<lastmod>2017-03-07T19:32:58+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/sangliers-3-bis.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/sangliers-3-bis.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/07/lievre/</loc>
+		<loc>./2017/03/07/lievre/index.html</loc>
 		<lastmod>2017-03-07T19:36:34+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/lievre-1-.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/lievre-1-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/lievre-2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/lievre-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/07/la-vesse-de-loup/</loc>
+		<loc>./2017/03/07/la-vesse-de-loup/index.html</loc>
 		<lastmod>2017-03-07T19:42:16+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/vesse-de-loup.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/vesse-de-loup.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/vesse-de-loup-2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/vesse-de-loup-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/08/les-genets/</loc>
+		<loc>./2017/03/08/les-genets/index.html</loc>
 		<lastmod>2017-03-08T09:51:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/08/632/</loc>
+		<loc>./2017/03/08/632/index.html</loc>
 		<lastmod>2017-03-08T09:59:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/08/629/</loc>
+		<loc>./2017/03/08/629/index.html</loc>
 		<lastmod>2017-03-08T10:00:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/08/le-patois-berrichon/</loc>
+		<loc>./2017/03/08/le-patois-berrichon/index.html</loc>
 		<lastmod>2017-03-08T15:57:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/08/les-blasons/</loc>
+		<loc>./2017/03/08/les-blasons/index.html</loc>
 		<lastmod>2017-03-08T16:05:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/09/666/</loc>
+		<loc>./2017/03/09/666/index.html</loc>
 		<lastmod>2017-03-09T06:28:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/vols-de-vanneaux/</loc>
+		<loc>./2017/03/07/vols-de-vanneaux/index.html</loc>
 		<lastmod>2017-03-09T15:58:58+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/vanneaux.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/vanneaux.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/09/le-pere-ouvrard/</loc>
+		<loc>./2017/03/09/le-pere-ouvrard/index.html</loc>
 		<lastmod>2017-03-09T16:20:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/09/medecin/</loc>
+		<loc>./2017/03/09/medecin/index.html</loc>
 		<lastmod>2017-03-09T17:06:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/09/louis-gallicher/</loc>
+		<loc>./2017/03/09/louis-gallicher/index.html</loc>
 		<lastmod>2017-03-11T08:56:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/inauguration-du-clos-st-martin/</loc>
+		<loc>./2017/03/12/inauguration-du-clos-st-martin/index.html</loc>
 		<lastmod>2017-03-12T03:27:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/leglise-st-martin/</loc>
+		<loc>./2017/03/12/leglise-st-martin/index.html</loc>
 		<lastmod>2017-03-12T03:30:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/le-pont-de-la/</loc>
+		<loc>./2017/03/12/le-pont-de-la/index.html</loc>
 		<lastmod>2017-03-12T03:34:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/restauration-de-leglise-st-martin/</loc>
+		<loc>./2017/03/12/restauration-de-leglise-st-martin/index.html</loc>
 		<lastmod>2017-03-12T03:38:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/les-anciennes-provinces-de-france/</loc>
+		<loc>./2017/03/12/les-anciennes-provinces-de-france/index.html</loc>
 		<lastmod>2017-03-12T04:11:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/les-departements/</loc>
+		<loc>./2017/03/12/les-departements/index.html</loc>
 		<lastmod>2017-03-12T04:16:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/informations-diverses/</loc>
+		<loc>./2017/03/12/informations-diverses/index.html</loc>
 		<lastmod>2017-03-12T07:13:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/le-stade-de-bigny-vallenay-devient-le-stade-albert-silveri/</loc>
+		<loc>./2017/03/12/le-stade-de-bigny-vallenay-devient-le-stade-albert-silveri/index.html</loc>
 		<lastmod>2017-03-12T16:04:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/avant-propos-2/</loc>
+		<loc>./2017/03/12/avant-propos-2/index.html</loc>
 		<lastmod>2017-03-12T16:23:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/13/football-1964/</loc>
+		<loc>./2017/03/13/football-1964/index.html</loc>
 		<lastmod>2017-03-13T05:02:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/13/football-1965/</loc>
+		<loc>./2017/03/13/football-1965/index.html</loc>
 		<lastmod>2017-03-13T05:16:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/13/football-1970/</loc>
+		<loc>./2017/03/13/football-1970/index.html</loc>
 		<lastmod>2017-03-13T14:35:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/13/football-1972/</loc>
+		<loc>./2017/03/13/football-1972/index.html</loc>
 		<lastmod>2017-03-13T14:42:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/13/football-1980/</loc>
+		<loc>./2017/03/13/football-1980/index.html</loc>
 		<lastmod>2017-03-13T14:48:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/13/football-sans-date/</loc>
+		<loc>./2017/03/13/football-sans-date/index.html</loc>
 		<lastmod>2017-03-13T14:55:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/13/clubs-et-associations/</loc>
+		<loc>./2017/03/13/clubs-et-associations/index.html</loc>
 		<lastmod>2017-03-13T15:23:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/14/la-croix-sur-la-place-de-vallenay/</loc>
+		<loc>./2017/03/14/la-croix-sur-la-place-de-vallenay/index.html</loc>
 		<lastmod>2017-03-14T00:47:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/15/les-insolites/</loc>
+		<loc>./2017/03/15/les-insolites/index.html</loc>
 		<lastmod>2017-03-15T19:43:09+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/vesse-de-loup-2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/vesse-de-loup-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/vesse-de-loup.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/vesse-de-loup.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/09/le-chanoine-jouve/</loc>
+		<loc>./2017/03/09/le-chanoine-jouve/index.html</loc>
 		<lastmod>2017-03-15T19:48:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/16/introduction/</loc>
+		<loc>./2017/03/16/introduction/index.html</loc>
 		<lastmod>2017-03-16T07:18:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1947-f-et-g/</loc>
+		<loc>./2017/03/18/photo-1947-f-et-g/index.html</loc>
 		<lastmod>2017-03-18T04:32:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1951-f-et-g-2/</loc>
+		<loc>./2017/03/18/photo-1951-f-et-g-2/index.html</loc>
 		<lastmod>2017-03-18T05:11:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1955-f-2/</loc>
+		<loc>./2017/03/18/photo-1955-f-2/index.html</loc>
 		<lastmod>2017-03-18T07:27:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/21/si-vallenay-etait-conte/</loc>
+		<loc>./2017/03/21/si-vallenay-etait-conte/index.html</loc>
 		<lastmod>2017-03-21T17:23:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/22/si-vallenay-etait-conte-2/</loc>
+		<loc>./2017/03/22/si-vallenay-etait-conte-2/index.html</loc>
 		<lastmod>2017-03-22T05:35:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/22/a-propos-du-minerai-de-fer/</loc>
+		<loc>./2017/03/22/a-propos-du-minerai-de-fer/index.html</loc>
 		<lastmod>2017-03-22T14:02:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/22/le-pont-de-bigny/</loc>
+		<loc>./2017/03/22/le-pont-de-bigny/index.html</loc>
 		<lastmod>2017-03-22T14:07:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/22/la-foret-de-vallenay/</loc>
+		<loc>./2017/03/22/la-foret-de-vallenay/index.html</loc>
 		<lastmod>2017-03-22T14:11:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/26/bruere-allichamps/</loc>
+		<loc>./2017/03/26/bruere-allichamps/index.html</loc>
 		<lastmod>2017-03-26T18:48:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/26/chambon/</loc>
+		<loc>./2017/03/26/chambon/index.html</loc>
 		<lastmod>2017-03-26T18:50:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/26/chateauneuf-sur-cher/</loc>
+		<loc>./2017/03/26/chateauneuf-sur-cher/index.html</loc>
 		<lastmod>2017-03-26T18:52:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/26/cresancay-sur-cher/</loc>
+		<loc>./2017/03/26/cresancay-sur-cher/index.html</loc>
 		<lastmod>2017-03-26T18:54:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/26/farges-allichamps/</loc>
+		<loc>./2017/03/26/farges-allichamps/index.html</loc>
 		<lastmod>2017-03-26T18:57:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/26/morlac/</loc>
+		<loc>./2017/03/26/morlac/index.html</loc>
 		<lastmod>2017-03-26T19:01:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/26/st-loup-des-chaumes/</loc>
+		<loc>./2017/03/26/st-loup-des-chaumes/index.html</loc>
 		<lastmod>2017-03-26T19:03:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/26/uzay-le-venon/</loc>
+		<loc>./2017/03/26/uzay-le-venon/index.html</loc>
 		<lastmod>2017-03-26T19:10:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/13/football-sans-date-3/</loc>
+		<loc>./2017/03/13/football-sans-date-3/index.html</loc>
 		<lastmod>2017-03-28T14:53:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/07/la-cuisine-du-berry/</loc>
+		<loc>./2017/03/07/la-cuisine-du-berry/index.html</loc>
 		<lastmod>2017-03-28T14:57:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/02/25/percepteur/</loc>
+		<loc>./2017/02/25/percepteur/index.html</loc>
 		<lastmod>2017-03-28T14:59:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/04/1793-conseil-municipal-du-2911795/</loc>
+		<loc>./2017/03/04/1793-conseil-municipal-du-2911795/index.html</loc>
 		<lastmod>2017-03-28T15:01:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1934-conseil-municipal-du-20121934/</loc>
+		<loc>./2017/03/06/1934-conseil-municipal-du-20121934/index.html</loc>
 		<lastmod>2017-03-28T15:02:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/08/une-rainette/</loc>
+		<loc>./2017/03/08/une-rainette/index.html</loc>
 		<lastmod>2017-03-28T15:04:25+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/rainette.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/rainette.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/28/inauguration-du-clos-st-martin-2/</loc>
+		<loc>./2017/03/28/inauguration-du-clos-st-martin-2/index.html</loc>
 		<lastmod>2017-03-28T18:27:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/28/leglise-st-martin-devient-maison-du-patrimoine/</loc>
+		<loc>./2017/03/28/leglise-st-martin-devient-maison-du-patrimoine/index.html</loc>
 		<lastmod>2017-03-28T18:29:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/28/maurice-larguinat/</loc>
+		<loc>./2017/03/28/maurice-larguinat/index.html</loc>
 		<lastmod>2017-03-28T18:40:29+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/Scan10001.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/Scan10001.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/22/mais-revenons-au-coeur-de-notre-village/</loc>
+		<loc>./2017/03/22/mais-revenons-au-coeur-de-notre-village/index.html</loc>
 		<lastmod>2017-04-05T14:50:47+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/nef.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/nef.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/vieilleeglisenuit-e1493989752379.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/vieilleeglisenuit-e1493989752379.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/monument3.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/monument3.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/04/16/scene-de-battage-du-grains-debut-du-xxeme-siecle/</loc>
+		<loc>./2017/04/16/scene-de-battage-du-grains-debut-du-xxeme-siecle/index.html</loc>
 		<lastmod>2017-04-16T08:05:59+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/04/batteuse.jpeg.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2017/04/batteuse.jpeg.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/27/cartes-postales-et-photos-anciennes/</loc>
+		<loc>./2017/03/27/cartes-postales-et-photos-anciennes/index.html</loc>
 		<lastmod>2017-04-17T14:01:36+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/vieille_eglise.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/vieille_eglise.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/vallenay_rue_bigny-1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/vallenay_rue_bigny-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/pontsuspendu.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/pontsuspendu.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/lemarche.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/lemarche.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/le-pont-des-anciennes-forges-1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/le-pont-des-anciennes-forges-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/ladigue.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/ladigue.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/vueaerienne.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/vueaerienne.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/vallenay_bigny2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/vallenay_bigny2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/maison-de-bois-1909.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/maison-de-bois-1909.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/vallenay_bourbiers.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/vallenay_bourbiers.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/le-pont-des-anciennes-forges.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/le-pont-des-anciennes-forges.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/04/16/1000x2500/</loc>
+		<loc>./2017/04/16/1000x2500/index.html</loc>
 		<lastmod>2017-04-19T10:07:44+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/04/sc%C3%A8nes-de-vie-%C3%A0-Vallenay-dans-les-ann%C3%A9ees-1900.doc.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2017/04/sc%C3%A8nes-de-vie-%C3%A0-Vallenay-dans-les-ann%C3%A9ees-1900.doc.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/04/sc%C3%A8nes-de-vie-%C3%A0-Vallenay-dans-les-ann%C3%A9ees-1900.doc.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2017/04/sc%C3%A8nes-de-vie-%C3%A0-Vallenay-dans-les-ann%C3%A9ees-1900.doc.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/14/le-monument-aux-morts-de-vallenay/</loc>
+		<loc>./2017/03/14/le-monument-aux-morts-de-vallenay/index.html</loc>
 		<lastmod>2017-04-20T14:52:39+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/monument1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/monument1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/14/le-monument-aux-morts-de-bigny/</loc>
+		<loc>./2017/03/14/le-monument-aux-morts-de-bigny/index.html</loc>
 		<lastmod>2017-04-20T19:38:40+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/monument-bigny.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/monument-bigny.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/09/personnages/</loc>
+		<loc>./2017/03/09/personnages/index.html</loc>
 		<lastmod>2017-04-20T19:49:30+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/popol.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/popol.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1955-g-1/</loc>
+		<loc>./2017/03/18/photo-1955-g-1/index.html</loc>
 		<lastmod>2017-04-24T02:34:41+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo_ecole_1955.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo_ecole_1955.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1955-f/</loc>
+		<loc>./2017/03/18/photo-1955-f/index.html</loc>
 		<lastmod>2017-04-24T02:58:26+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/04/photo-7.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/04/photo-7.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/19/photo-1980-f-et-g/</loc>
+		<loc>./2017/03/19/photo-1980-f-et-g/index.html</loc>
 		<lastmod>2017-04-25T18:50:26+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo-1979.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo-1979.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/19/photo-1978-f-et-g/</loc>
+		<loc>./2017/03/19/photo-1978-f-et-g/index.html</loc>
 		<lastmod>2017-04-25T19:01:45+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo-1978-nouvelle-1-e1493146892575.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo-1978-nouvelle-1-e1493146892575.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1957-g-bis/</loc>
+		<loc>./2017/03/18/photo-1957-g-bis/index.html</loc>
 		<lastmod>2017-04-26T10:08:03+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo-1957-g-ter-e1493200834656.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo-1957-g-ter-e1493200834656.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1957-g/</loc>
+		<loc>./2017/03/18/photo-1957-g/index.html</loc>
 		<lastmod>2017-04-26T15:04:43+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/03/photo-1957-g-e1493146458391.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/03/photo-1957-g-e1493146458391.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1955-g/</loc>
+		<loc>./2017/03/18/photo-1955-g/index.html</loc>
 		<lastmod>2017-04-29T12:11:30+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo_1955_g_bis.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo_1955_g_bis.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1956-g/</loc>
+		<loc>./2017/03/18/photo-1956-g/index.html</loc>
 		<lastmod>2017-04-29T12:36:00+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo2bis.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo2bis.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1952-g/</loc>
+		<loc>./2017/03/18/photo-1952-g/index.html</loc>
 		<lastmod>2017-04-29T15:37:16+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo-1953-g.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo-1953-g.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1953-f/</loc>
+		<loc>./2017/03/18/photo-1953-f/index.html</loc>
 		<lastmod>2017-04-29T15:50:59+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/e1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/e1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1950-g/</loc>
+		<loc>./2017/03/18/photo-1950-g/index.html</loc>
 		<lastmod>2017-05-02T13:40:48+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/kokot2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/kokot2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1943-f/</loc>
+		<loc>./2017/03/17/photo-1943-f/index.html</loc>
 		<lastmod>2017-05-02T14:04:16+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo-1943-f.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo-1943-f.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1947-f/</loc>
+		<loc>./2017/03/18/photo-1947-f/index.html</loc>
 		<lastmod>2017-05-05T12:24:48+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo1947.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo1947.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1945-f/</loc>
+		<loc>./2017/03/18/photo-1945-f/index.html</loc>
 		<lastmod>2017-05-05T12:27:44+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo_1945_f.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo_1945_f.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1944-f/</loc>
+		<loc>./2017/03/17/photo-1944-f/index.html</loc>
 		<lastmod>2017-05-05T12:31:28+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo_1944_f.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo_1944_f.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1951-f/</loc>
+		<loc>./2017/03/18/photo-1951-f/index.html</loc>
 		<lastmod>2017-05-06T13:19:13+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/03/Ecole3.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/03/Ecole3.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1952-f-et-g/</loc>
+		<loc>./2017/03/18/photo-1952-f-et-g/index.html</loc>
 		<lastmod>2017-05-06T13:23:17+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/04/photo-1952.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/04/photo-1952.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1954-f/</loc>
+		<loc>./2017/03/18/photo-1954-f/index.html</loc>
 		<lastmod>2017-05-15T13:06:56+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo-5.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo-5.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1941-f/</loc>
+		<loc>./2017/03/17/photo-1941-f/index.html</loc>
 		<lastmod>2017-05-15T13:12:19+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/04/Ecole-filles-vers-1940-e1493182436169.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/04/Ecole-filles-vers-1940-e1493182436169.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1938-f-et-g/</loc>
+		<loc>./2017/03/17/photo-1938-f-et-g/index.html</loc>
 		<lastmod>2017-05-16T02:27:44+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/03/photo-1938-f-et-g.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/03/photo-1938-f-et-g.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1937-g/</loc>
+		<loc>./2017/03/17/photo-1937-g/index.html</loc>
 		<lastmod>2017-05-16T02:35:15+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo-1937-g.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo-1937-g.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/16/photo-1933-f/</loc>
+		<loc>./2017/03/16/photo-1933-f/index.html</loc>
 		<lastmod>2017-05-16T02:38:05+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo_1933f.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo_1933f.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/16/photo-1931-f/</loc>
+		<loc>./2017/03/16/photo-1931-f/index.html</loc>
 		<lastmod>2017-05-16T02:40:47+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo_1931f.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo_1931f.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/16/841/</loc>
+		<loc>./2017/03/16/841/index.html</loc>
 		<lastmod>2017-05-16T02:42:11+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo1920bis.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo1920bis.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/17/photo-1943-f-et-g/</loc>
+		<loc>./2017/03/17/photo-1943-f-et-g/index.html</loc>
 		<lastmod>2017-05-16T02:55:38+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo1943.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo1943.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/13/baskett-feminin-1946/</loc>
+		<loc>./2017/03/13/baskett-feminin-1946/index.html</loc>
 		<lastmod>2017-05-16T16:07:23+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/Basket-filles.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/Basket-filles.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/12/football-1947/</loc>
+		<loc>./2017/03/12/football-1947/index.html</loc>
 		<lastmod>2017-05-16T16:20:49+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/foot_1947.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/foot_1947.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/12/football-1948/</loc>
+		<loc>./2017/03/12/football-1948/index.html</loc>
 		<lastmod>2017-05-16T16:26:32+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/foot-1948.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/foot-1948.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/12/749/</loc>
+		<loc>./2017/03/12/749/index.html</loc>
 		<lastmod>2017-05-16T16:29:20+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/foot-1952.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/foot-1952.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/13/football-1958/</loc>
+		<loc>./2017/03/13/football-1958/index.html</loc>
 		<lastmod>2017-05-16T17:38:58+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/foot-1954.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/foot-1954.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/13/football-1960/</loc>
+		<loc>./2017/03/13/football-1960/index.html</loc>
 		<lastmod>2017-05-17T16:21:13+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/foot_1960.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/foot_1960.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/05/17/football-date-bis/</loc>
+		<loc>./2017/05/17/football-date-bis/index.html</loc>
 		<lastmod>2017-05-17T16:28:16+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/foot-2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/foot-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/05/17/football-1970-2/</loc>
+		<loc>./2017/05/17/football-1970-2/index.html</loc>
 		<lastmod>2017-05-17T18:38:54+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/foot-1970.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/foot-1970.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/05/17/fottball-sans-date/</loc>
+		<loc>./2017/05/17/fottball-sans-date/index.html</loc>
 		<lastmod>2017-05-17T18:39:32+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/foot-1-1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/foot-1-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/04/16/le-banquet-du-siecle/</loc>
+		<loc>./2017/04/16/le-banquet-du-siecle/index.html</loc>
 		<lastmod>2017-05-17T18:42:15+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/04/le-banquet-du-si%C3%A8cle.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2017/04/le-banquet-du-si%C3%A8cle.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/28/la-papeterie-smurfit-nest-plus/</loc>
+		<loc>./2017/03/28/la-papeterie-smurfit-nest-plus/index.html</loc>
 		<lastmod>2017-05-17T18:43:45+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/fin-de-smurfit.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/fin-de-smurfit.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/29/scenes-de-la-vie-au-xx-eme-siecle/</loc>
+		<loc>./2017/03/29/scenes-de-la-vie-au-xx-eme-siecle/index.html</loc>
 		<lastmod>2017-05-17T18:45:49+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/Guy_Imbault_et_ses_nes.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/Guy_Imbault_et_ses_nes.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/guy-imbault-et-ses-%C3%94nes-2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/guy-imbault-et-ses-%C3%94nes-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/28/1143/</loc>
+		<loc>./2017/03/28/1143/index.html</loc>
 		<lastmod>2017-05-17T18:47:08+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/Le_moulin_dans_le_lit_du_cher.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/Le_moulin_dans_le_lit_du_cher.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/28/des-fragments-de-sarcophages-dans-le-cher-a-bigny-vallenay/</loc>
+		<loc>./2017/03/28/des-fragments-de-sarcophages-dans-le-cher-a-bigny-vallenay/index.html</loc>
 		<lastmod>2017-05-17T18:48:23+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/sarcophages.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/sarcophages.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/28/divers/</loc>
+		<loc>./2017/03/28/divers/index.html</loc>
 		<lastmod>2017-05-17T18:53:17+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/03/pontbrul.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/03/pontbrul.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/28/marcel-bascoulard/</loc>
+		<loc>./2017/03/28/marcel-bascoulard/index.html</loc>
 		<lastmod>2017-05-17T18:55:54+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/bascoulard2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/bascoulard2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/bascoulard3.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/bascoulard3.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/27/la-vieille-eglise-st-martin/</loc>
+		<loc>./2017/03/27/la-vieille-eglise-st-martin/index.html</loc>
 		<lastmod>2017-05-17T18:57:57+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/vieille-eglise-1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/vieille-eglise-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/27/plans-de-la-petite-forges/</loc>
+		<loc>./2017/03/27/plans-de-la-petite-forges/index.html</loc>
 		<lastmod>2017-05-18T16:02:24+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/planpetite_forge2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/planpetite_forge2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/plan_petite_forge1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/plan_petite_forge1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/petiteforge5.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/petiteforge5.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/petiteforge3.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/petiteforge3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/petite_forge9.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/petite_forge9.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/petite_forge7.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/petite_forge7.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/29/ceremonie-de-remise-du-coq-sur-le-clocher/</loc>
+		<loc>./2017/03/29/ceremonie-de-remise-du-coq-sur-le-clocher/index.html</loc>
 		<lastmod>2017-05-18T16:04:05+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/clocher_1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/clocher_1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/12/le-cher-notre-riviere/</loc>
+		<loc>./2017/03/12/le-cher-notre-riviere/index.html</loc>
 		<lastmod>2017-05-18T16:10:03+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/source-du-Cher-2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/source-du-Cher-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/06/1900-lettre-aux-habitants-de-vallenay/</loc>
+		<loc>./2017/03/06/1900-lettre-aux-habitants-de-vallenay/index.html</loc>
 		<lastmod>2017-05-18T16:14:03+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/habitantvallenay1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/habitantvallenay1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/habitantvallenay4.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/habitantvallenay4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/habitantvallenay2.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/habitantvallenay2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/habitantvallenay3.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/habitantvallenay3.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1957-f/</loc>
+		<loc>./2017/03/18/photo-1957-f/index.html</loc>
 		<lastmod>2017-05-19T05:43:38+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/03/photo-6.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/03/photo-6.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1957-f-2/</loc>
+		<loc>./2017/03/18/photo-1957-f-2/index.html</loc>
 		<lastmod>2017-05-19T05:45:13+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo-1957-f-e1493230850184.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo-1957-f-e1493230850184.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/05/22/deces-de-robert-couturier-ancien-maire-de-vallenay/</loc>
+		<loc>./2017/05/22/deces-de-robert-couturier-ancien-maire-de-vallenay/index.html</loc>
 		<lastmod>2017-05-22T07:14:05+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/05/d%C3%A9c%C3%A8s-robert-couturier.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/05/d%C3%A9c%C3%A8s-robert-couturier.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/13/hand-ball-1956/</loc>
+		<loc>./2017/03/13/hand-ball-1956/index.html</loc>
 		<lastmod>2017-06-03T18:37:34+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo-handball-1956.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo-handball-1956.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/06/04/liste-associations-de-bigny-vallenay/</loc>
+		<loc>./2017/06/04/liste-associations-de-bigny-vallenay/index.html</loc>
 		<lastmod>2017-06-04T18:49:50+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/Vallenaytour.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/Vallenaytour.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/19/photo-1970-f-et-g/</loc>
+		<loc>./2017/03/19/photo-1970-f-et-g/index.html</loc>
 		<lastmod>2017-06-08T06:03:51+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo_ecole_1976-e1493205678626.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo_ecole_1976-e1493205678626.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1949-g/</loc>
+		<loc>./2017/03/18/photo-1949-g/index.html</loc>
 		<lastmod>2017-06-12T15:47:58+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo-1949-g.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo-1949-g.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1947-f-et-g-2/</loc>
+		<loc>./2017/03/18/photo-1947-f-et-g-2/index.html</loc>
 		<lastmod>2017-06-12T15:49:10+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo-1949-f-et-g.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo-1949-f-et-g.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1956-g-2/</loc>
+		<loc>./2017/03/18/photo-1956-g-2/index.html</loc>
 		<lastmod>2017-06-12T15:50:12+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo-1956-g.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo-1956-g.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/18/photo-1956-g-1/</loc>
+		<loc>./2017/03/18/photo-1956-g-1/index.html</loc>
 		<lastmod>2017-06-12T15:51:52+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/photo-1956-g-bis.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/photo-1956-g-bis.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/12/carte-de-cassini/</loc>
+		<loc>./2017/03/12/carte-de-cassini/index.html</loc>
 		<lastmod>2018-10-06T11:53:41+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2018/10/carte_cassini_5.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2018/10/carte_cassini_5.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/27/le-nay/</loc>
+		<loc>./2017/03/27/le-nay/index.html</loc>
 		<lastmod>2019-06-13T04:52:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/12/les-80-ans-de-lasbv/</loc>
+		<loc>./2017/03/12/les-80-ans-de-lasbv/index.html</loc>
 		<lastmod>2019-08-04T13:23:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/03/08/le-costume-berrichon/</loc>
+		<loc>./2017/03/08/le-costume-berrichon/index.html</loc>
 		<lastmod>2019-08-04T15:16:32+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/costume-femme.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/costume-femme.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/costume-homme.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/costume-homme.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/13/football-sans-date-2/</loc>
+		<loc>./2017/03/13/football-sans-date-2/index.html</loc>
 		<lastmod>2019-08-04T15:58:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2017/05/17/1356/</loc>
+		<loc>./2017/05/17/1356/index.html</loc>
 		<lastmod>2019-08-04T16:04:22+00:00</lastmod>
 		<image:image>
-			<image:loc>.//wp-content/uploads/2017/02/foot-3.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2017/02/foot-3.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>.//2017/03/13/football-1982/</loc>
+		<loc>./2017/03/13/football-1982/index.html</loc>
 		<lastmod>2019-08-04T16:34:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//2023/05/20/comme-faire-meilleure-emotion-d-de-indivisible/</loc>
+		<loc>./2023/05/20/comme-faire-meilleure-emotion-d-de-indivisible/index.html</loc>
 		<lastmod>2023-05-20T13:33:57+00:00</lastmod>
 	</url>
 </urlset>

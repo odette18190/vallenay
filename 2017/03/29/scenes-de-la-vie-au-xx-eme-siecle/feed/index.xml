@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Scène de vie au xxème siècle	</title>
-	<atom:link href=".//2017/03/29/scenes-de-la-vie-au-xx-eme-siecle/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/03/29/scenes-de-la-vie-au-xx-eme-siecle/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Wed, 17 May 2017 18:45:49 +0000</lastBuildDate>
 	<sy:updatePeriod>

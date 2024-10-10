@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Photo 1955 f &#8211; 2	</title>
-	<atom:link href=".//2017/03/18/photo-1955-f-2/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/03/18/photo-1955-f-2/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Mon, 02 Apr 2018 19:07:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Par : Nicole Fontaine		</title>
-		<link>.//2017/03/18/photo-1955-f-2/#comment-19</link>
+		<link>./../index.html#comment-19</link>
 
 		<dc:creator><![CDATA[Nicole Fontaine]]></dc:creator>
 		<pubDate>Mon, 02 Apr 2018 19:07:40 +0000</pubDate>
-		<guid isPermaLink="false">.//?p=951#comment-19</guid>
+		<guid isPermaLink="false">./../../../../../index.html?p=951#comment-19</guid>
 
 					<description><![CDATA[Pas de photo !]]></description>
 			<content:encoded><![CDATA[<p>Pas de photo !</p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		Par : Nicole Fontaine		</title>
-		<link>.//2017/03/18/photo-1955-f-2/#comment-4</link>
+		<link>./../index.html#comment-4</link>
 
 		<dc:creator><![CDATA[Nicole Fontaine]]></dc:creator>
 		<pubDate>Sun, 27 Aug 2017 14:39:13 +0000</pubDate>
-		<guid isPermaLink="false">.//?p=951#comment-4</guid>
+		<guid isPermaLink="false">./../../../../../index.html?p=951#comment-4</guid>
 
 					<description><![CDATA[Pas de photo ...juste le nom des élèves.]]></description>
 			<content:encoded><![CDATA[<p>Pas de photo &#8230;juste le nom des élèves.</p>

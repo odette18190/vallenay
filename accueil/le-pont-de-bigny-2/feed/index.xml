@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Le Pont de Bigny	</title>
-	<atom:link href=".//accueil/le-pont-de-bigny-2/feed/" rel="self" type="application/rss+xml" />
-	<link>.//accueil/le-pont-de-bigny-2/feed/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Tue, 16 May 2017 03:06:51 +0000</lastBuildDate>
 	<sy:updatePeriod>

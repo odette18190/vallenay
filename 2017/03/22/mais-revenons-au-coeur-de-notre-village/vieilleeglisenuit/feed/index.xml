@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : vieilleeglisenuit	</title>
-	<atom:link href=".//2017/03/22/mais-revenons-au-coeur-de-notre-village/vieilleeglisenuit/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/03/22/mais-revenons-au-coeur-de-notre-village/vieilleeglisenuit/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Fri, 24 Mar 2017 08:09:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Bruère-Allichamps	</title>
-	<atom:link href=".//2017/03/26/bruere-allichamps/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/03/26/bruere-allichamps/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Sun, 26 Mar 2017 18:48:24 +0000</lastBuildDate>
 	<sy:updatePeriod>

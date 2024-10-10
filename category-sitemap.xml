@@ -1,95 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href=".//main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>.//category/archives/</loc>
+		<loc>./category/archives/index.html</loc>
 		<lastmod>2017-05-18T16:14:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/cartes-postales-et-croquis-divers/</loc>
+		<loc>./category/cartes-postales-et-croquis-divers/index.html</loc>
 		<lastmod>2019-06-13T04:52:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/clubs-et-associations/</loc>
+		<loc>./category/clubs-et-associations/index.html</loc>
 		<lastmod>2017-06-04T18:49:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/commercants-artisans/</loc>
+		<loc>./category/commercants-artisans/index.html</loc>
 		<lastmod>2017-03-28T14:59:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/creation-du-site/</loc>
+		<loc>./category/creation-du-site/index.html</loc>
 		<lastmod>2017-03-07T12:47:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/divers/</loc>
+		<loc>./category/divers/index.html</loc>
 		<lastmod>2017-05-17T18:53:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/geographie/</loc>
+		<loc>./category/geographie/index.html</loc>
 		<lastmod>2018-10-06T11:53:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/histoire/</loc>
+		<loc>./category/histoire/index.html</loc>
 		<lastmod>2017-04-05T14:50:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/il-y-a-cent-ans/</loc>
+		<loc>./category/il-y-a-cent-ans/index.html</loc>
 		<lastmod>2017-03-04T18:57:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/infos-pratiques/</loc>
+		<loc>./category/infos-pratiques/index.html</loc>
 		<lastmod>2017-03-07T17:18:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/la-cuisine-du-berry/</loc>
+		<loc>./category/la-cuisine-du-berry/index.html</loc>
 		<lastmod>2017-03-28T14:57:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/la-faune-et-la-flore/</loc>
+		<loc>./category/la-faune-et-la-flore/index.html</loc>
 		<lastmod>2017-03-28T15:04:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/le-berry/</loc>
+		<loc>./category/le-berry/index.html</loc>
 		<lastmod>2019-08-04T15:16:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/le-sport-a-bigny-vallenay/</loc>
+		<loc>./category/le-sport-a-bigny-vallenay/index.html</loc>
 		<lastmod>2019-08-04T16:34:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/les-insolites/</loc>
+		<loc>./category/les-insolites/index.html</loc>
 		<lastmod>2017-03-15T19:43:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/les-monuments/</loc>
+		<loc>./category/les-monuments/index.html</loc>
 		<lastmod>2017-04-20T19:38:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/non-classe/</loc>
+		<loc>./category/non-classe/index.html</loc>
 		<lastmod>2019-08-04T16:34:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/nos-voisins/</loc>
+		<loc>./category/nos-voisins/index.html</loc>
 		<lastmod>2017-03-26T19:10:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/personnages/</loc>
+		<loc>./category/personnages/index.html</loc>
 		<lastmod>2017-05-17T18:55:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/personnalite/</loc>
+		<loc>./category/personnalite/index.html</loc>
 		<lastmod>2017-04-20T19:49:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/photos-decole/</loc>
+		<loc>./category/photos-decole/index.html</loc>
 		<lastmod>2017-06-12T15:51:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/sites-de-rencontre-senior-inscription-2/</loc>
+		<loc>./category/sites-de-rencontre-senior-inscription-2/index.html</loc>
 		<lastmod>2023-05-20T13:33:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>.//category/vallenay-dans-la-presse/</loc>
+		<loc>./category/vallenay-dans-la-presse/index.html</loc>
 		<lastmod>2017-05-18T16:04:05+00:00</lastmod>
 	</url>
 </urlset>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Obligations des Forges	</title>
-	<atom:link href=".//2017/03/01/obligations-des-forges-2/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/03/01/obligations-des-forges-2/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Sat, 04 Mar 2017 16:21:22 +0000</lastBuildDate>
 	<sy:updatePeriod>

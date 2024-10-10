@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : ANCIENNES PROVINCES DE FRANCE (extrait  d’un texte Wikipédia)	</title>
-	<atom:link href=".//2017/02/11/anciennes-provinces-de-france-extrait-dun-texte-wikipedia/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/02/11/anciennes-provinces-de-france-extrait-dun-texte-wikipedia/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Sat, 11 Feb 2017 13:45:43 +0000</lastBuildDate>
 	<sy:updatePeriod>

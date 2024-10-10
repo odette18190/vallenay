@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : décès	</title>
-	<atom:link href=".//2017/05/22/deces-de-robert-couturier-ancien-maire-de-vallenay/deces/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/05/22/deces-de-robert-couturier-ancien-maire-de-vallenay/deces/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Mon, 22 May 2017 05:42:19 +0000</lastBuildDate>
 	<sy:updatePeriod>

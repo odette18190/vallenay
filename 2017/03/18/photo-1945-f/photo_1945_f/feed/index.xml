@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : photo_1945_f	</title>
-	<atom:link href=".//2017/03/18/photo-1945-f/photo_1945_f/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/03/18/photo-1945-f/photo_1945_f/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Fri, 05 May 2017 12:27:37 +0000</lastBuildDate>
 	<sy:updatePeriod>

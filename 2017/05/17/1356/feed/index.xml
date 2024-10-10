@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Football (sans titre ) ter	</title>
-	<atom:link href=".//2017/05/17/1356/feed/" rel="self" type="application/rss+xml" />
-	<link>.//2017/05/17/1356/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>18190</description>
 	<lastBuildDate>Sun, 04 Aug 2019 16:04:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
