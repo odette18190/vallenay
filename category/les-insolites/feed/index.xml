@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>les insolites Archives - Vallenay.net</title>
+	<atom:link href="/category/les-insolites/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/les-insolites/</link>
+	<description>18190</description>
+	<lastBuildDate>Wed, 15 Mar 2017 19:43:09 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Les insolites</title>
+		<link>/2017/03/15/les-insolites/</link>
+					<comments>/2017/03/15/les-insolites/#respond</comments>
+		
+		<dc:creator><![CDATA[Odette Brunet]]></dc:creator>
+		<pubDate>Wed, 15 Mar 2017 05:12:34 +0000</pubDate>
+				<category><![CDATA[les insolites]]></category>
+		<guid isPermaLink="false">/?p=826</guid>
+
+					<description><![CDATA[<p>Champignon vesse-de loup de 6,850 Kg (photo A.Menez &#8211; Septembre 2008) à côté, une nectarine &#160;</p>
+<p>L’article <a rel="nofollow" href="/2017/03/15/les-insolites/">Les insolites</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2017/03/15/les-insolites/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

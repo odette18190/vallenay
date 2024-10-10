@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>luc, auteur sur Vallenay.net</title>
+	<atom:link href="/author/luc/feed/" rel="self" type="application/rss+xml" />
+	<link>/author/luc/</link>
+	<description>18190</description>
+	<lastBuildDate>Sat, 11 Feb 2017 13:45:43 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>ANCIENNES PROVINCES DE FRANCE (extrait  d’un texte Wikipédia)</title>
+		<link>/2017/02/11/anciennes-provinces-de-france-extrait-dun-texte-wikipedia/</link>
+					<comments>/2017/02/11/anciennes-provinces-de-france-extrait-dun-texte-wikipedia/#respond</comments>
+		
+		<dc:creator><![CDATA[luc]]></dc:creator>
+		<pubDate>Sat, 11 Feb 2017 13:39:27 +0000</pubDate>
+				<category><![CDATA[Histoire]]></category>
+		<guid isPermaLink="false">/?p=331</guid>
+
+					<description><![CDATA[<p>&#160; &#160; Le terme de provinces  est actuellement utilisé dans un but de simplification pour désigner les divisions géographiques (culturelles,ethnologiques,historiques, parfois administratives.) de la France antérieurement à la division en départements effectuée en 1790. Le mot, dans son sens actuel, est apparu dès le XVème siècle et n’a cessé de se répandre tant dans les &#8230; </p>
+<p class="link-more"><a href="/2017/02/11/anciennes-provinces-de-france-extrait-dun-texte-wikipedia/" class="more-link">Continuer la lecture<span class="screen-reader-text"> de &#171;&#160;ANCIENNES PROVINCES DE FRANCE (extrait  d’un texte Wikipédia)&#160;&#187;</span></a></p>
+<p>L’article <a rel="nofollow" href="/2017/02/11/anciennes-provinces-de-france-extrait-dun-texte-wikipedia/">ANCIENNES PROVINCES DE FRANCE (extrait  d’un texte Wikipédia)</a> est apparu en premier sur <a rel="nofollow" href="/">Vallenay.net</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2017/02/11/anciennes-provinces-de-france-extrait-dun-texte-wikipedia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
